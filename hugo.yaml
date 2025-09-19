@@ -69,10 +69,10 @@ params:
     sidebar:
         emoji: 
         subtitle: MA Graphic Design • Reflective Journal
-        avatar:
+        avatar: 
             enabled: true
             local: true
-            src: img/journal-pfp.png
+            src: Untitled_Artwork_PhotoGrid.png
 
     article:
         math: false
