@@ -4,9 +4,10 @@ draft = true
 title = 'Week 01'
 +++
 ---
-title: "Week 01 – Starting the MA"
+title: "Week 01 – Brief Analysis"
 date: 2025-09-22
-draft: true
+draft: false
+modules: ["GDE741"]
 tags: ["week-01", "reflection", "process"]
 summary: "Initial expectations, goals, and first readings."
 ---
