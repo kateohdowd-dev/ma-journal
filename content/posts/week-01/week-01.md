@@ -1,5 +1,5 @@
 ---
-title: "Week 01 — Getting Started"
+title: "Week 01 — Brief Analysis"
 date: 2025-09-18
 draft: false
 categories: ["GDE741"]
