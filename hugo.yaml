@@ -267,3 +267,10 @@ markup:
         lineNos: true
         lineNumbersInTable: true
         tabWidth: 4
+
+        # config/_default/taxonomies.yaml  (or in hugo.yaml under 'taxonomies:')
+taxonomies:
+  category: categories
+  tag: tags
+  module: modules
+
