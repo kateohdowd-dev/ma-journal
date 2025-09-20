@@ -4,12 +4,13 @@ draft = false
 title = 'Week 01'
 +++
 ---
-title: "Week 01 – Brief Analysis"
-date: 2025-09-19
+title: "Week 01 — Getting Started"
+date: 2025-09-22
 draft: false
-modules: ["GDE741"]
-tags: ["week-01", "reflection", "process"]
-summary: "Initial expectations, goals, and first readings."
+categories: ["GDE741"]     # ← shows in the Categories widget
+modules: ["GDE741"]        # ← keeps your /modules/gde741/ listing (optional but nice)
+tags: ["week-01", "reflection", "research"]  # ← shows in Tag cloud
+summary: "Initial goals and first tasks." 
 ---
 ## What I did this week
 - Studio tasks:
