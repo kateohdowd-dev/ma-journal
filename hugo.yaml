@@ -53,7 +53,7 @@ permalinks:
 
 params:
     mainSections:
-        - post
+        - posts
     featuredImageField: image
     rssFullContent: true
     favicon: # e.g.: favicon placed in `static/favicon.ico` of your site folder, then set this field to `/favicon.ico` (`/` is necessary)
@@ -213,10 +213,13 @@ params:
 ### To remove about, archive and search page menu item, remove `menu` field from their FrontMatter
 menu:
     main:   
+    - name: Modules
+      url: /modules/
+      weight: 2
     - name: GDE741
       url: /modules/gde741/
-      weight: 2
-
+      weight: 3
+ 
     social:
         - identifier: github
           name: GitHub
