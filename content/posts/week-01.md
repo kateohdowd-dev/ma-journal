@@ -1,6 +1,6 @@
 ---
 title: "Week 01 — Getting Started"
-date: 2025-09-22
+date: 2025-09-18
 draft: false
 categories: ["GDE741"]
 modules: ["GDE741"]
