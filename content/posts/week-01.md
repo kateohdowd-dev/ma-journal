@@ -6,6 +6,7 @@ categories: ["GDE741"]
 modules: ["GDE741"]
 tags: ["week-01", "reflection", "research"]
 summary: "Initial goals and first tasks."
+image: "/images/week-01/cover.jpeg"
 ---
 ## What I did this week
 - Studio tasks:
