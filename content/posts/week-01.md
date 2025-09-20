@@ -1,13 +1,12 @@
 ---
-title = "Week 01 — Getting Started"
-date = 2025-09-22
-draft = false
-categories = ["GDE741"]
-modules = ["GDE741"]
-tags = ["week-01", "reflection", "research"]
-summary = "Initial goals and first tasks."
+title: "Week 01 — Getting Started"
+date: 2025-09-22
+draft: false
+categories: ["GDE741"]
+modules: ["GDE741"]
+tags: ["week-01", "reflection", "research"]
+summary: "Initial goals and first tasks."
 ---
-
 ## What I did this week
 - Studio tasks:
 - Research/reading:
@@ -21,5 +20,3 @@ What worked / what didn’t / what surprised me.
 
 ## Next Steps
 - Plan for Week 02…
-
-
