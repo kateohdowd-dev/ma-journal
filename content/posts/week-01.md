@@ -1,6 +1,6 @@
 +++
 date = '2025-09-18T14:13:14+01:00'
-draft = true
+draft = false
 title = 'Week 01'
 +++
 ---
