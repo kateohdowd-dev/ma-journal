@@ -5,7 +5,7 @@ title = 'Week 01'
 +++
 ---
 title: "Week 01 – Brief Analysis"
-date: 2025-09-22
+date: 2025-09-19
 draft: false
 modules: ["GDE741"]
 tags: ["week-01", "reflection", "process"]
