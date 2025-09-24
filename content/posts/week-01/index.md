@@ -14,15 +14,17 @@ while I've been gone - I've been starting to learn web development and coding, a
 
 To kick this module off, we're starting a four week self initiated project. I've really been battling with the challenge of finding time to work on self initiated projects recently. I wish I had more time to dedicate to personal projects, and this is something that was touched on briefly during this week's lecture which I really appreciated. There were so many great insights into the nature and importance of self-initiated projects this week, and I personally feel that self initiated projects are a great way to really reclaim your practise and define who your are as an designer.
 
-## Looking back & initial ideas 
+### Lecture Reflections
+
+### Looking back & initial ideas 
 It was reccomended this week that we look back at work from the very first module, GDE710, so I started this week by looking back at my older work. I've been feeling a bit disconnected from my practise recently, so the opportunity to go back over some older work and think about what really matters to me as a practitioner was very helpful. It took me a while to familiarise myself with what I had actually gotten up to in GDE710, as it was technically three years ago now! I feel like I've changed so much as a practitioner and a person since GDE710, but I loved looking back at the work I'd completed, it gave me so many starting points and so much inspiration. 
 
 It was outlined this week that one thing the project needs to do is respond to an issue, cause or narrative that is important to us, so it's important to make sure that this project is valuable and fulfilling, which is something that I always like to try and make sure that my projects are. I'd like to choose a subject or theme that is quite personal, especially considering that the next brief could end up being more commercial. It’s also nice to have the opportunity to take time to work on self initiated projects, and I think by nature a self initiated project should be something that’s personally important. 
 
-## My place in the Industry 
+### My place in the Industry 
 The first thing I did to start this module before I intermitted was consider my identity and my place in the industry. As I mentioned, I feel like I've changed quite a bit since then, so I'd be interested to look back at what I wrote three years ago, and compare it to who I am now. 
 
-### Who am I?
+#### Who am I?
 I am a freelance graphic designer, illustrator and front-end developer, with a goal to work in-house as a web designer/developer, a UI/UX designer or as part of design team. My interests include packaging design, brand design, social media and marketing. In my free time, I love to draw, and I enjoy designing characters and drawing/writing comics and graphic novels.
 
 #### Recurrent themes in my work 
@@ -33,7 +35,7 @@ I am a freelance graphic designer, illustrator and front-end developer, with a g
 - Feminism
 - Storytelling and narrative
 
-### My Current Skills: 
+#### My Current Skills: 
 
 - Illustration (editorial, commercial, character)
 - Graphic design 
@@ -47,7 +49,7 @@ I am a freelance graphic designer, illustrator and front-end developer, with a g
 - Copywriting
 
 
-### Skills I'd Like to Develop
+#### Skills I'd Like to Develop
 
 - Continue learning coding languages (back-end, software dev, etc.) 
 - Animation and motion graphics
@@ -69,7 +71,7 @@ without fear of failure or judgement.
 - I want this project to send a message. I love using my work to tackle themes and issues that are important to me,
 to raise awareness and hopefully help others.
 
-## Previous Ideas from 2023
+### Previous Ideas from 2023
 
 #### Disability Awareness
 
@@ -117,7 +119,7 @@ Social media marketing
 Narrative through social media marketing? Like an ARG to promote 
 Mmm interesting tasty
 
-## Current Ideas
+### Current Ideas
 
 As well as looking back at ideas from my first attempt at this module, I went back over my work for GDE710 with fresh eyes to see what stood out to me, and to try and develop some ideas for this module. 
 
@@ -150,7 +152,8 @@ people who use social media to spin narratives and create engaging experiences
 ​
 Who are the designers, artists and makers that are critical to this area of design? How might their work inform your own creative direction?
 
-## Artefacts
+### Research Task
+
 ![Sketchbook page](/images/week-01/sketch-1.jpg)
 
 ## Next Steps
