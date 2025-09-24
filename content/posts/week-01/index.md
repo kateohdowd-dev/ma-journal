@@ -9,8 +9,10 @@ summary: "Initial goals and first tasks."
 image: "cover.jpg"
 ---
 
-I'm really glad to be back on the course and I'm super excited to get started with GDE740 this week. Overall, I feel much more focused after takikng a break. I also feel like I've learned a lot about myself and my practise 
-while I've been gone - I've been starting to learn web development and coding, and absolutely loving it. I've been exploring the intersection between design and tech, and I'd love to bring this into my work moving forward!
+I'm really glad to be back on the course and I'm super excited to get started with GDE740 this week. Overall, I feel much more focused after taking a break. I also feel like I've learned a lot about myself and my practise 
+while I've been gone - I've been starting to learn web development and coding, and absolutely loving it. I've really been exploring the intersection between design and tech, and I'd love to bring this into my work moving forward!
+
+
 
 To kick this module off, we're starting a four week self initiated project. I've really been battling with the challenge of finding time to work on self initiated projects recently. I wish I had more time to dedicate to personal projects, and this is something that was touched on briefly during this week's lecture which I really appreciated. There were so many great insights into the nature and importance of self-initiated projects this week, and I personally feel that self initiated projects are a great way to really reclaim your practise and define who your are as an designer.
 
@@ -157,7 +159,7 @@ As well as looking back at ideas from my first attempt at this module, I went ba
 
 I really loved the work I did for week 2, 'Industry Today', when we looked at the history of design. This was really a first look into the history of design for me and I found it absolutely fascinating. 
 
-! (week-01.jpg) (penguin_book-covers.jpg)
+![An old Penguin book cover design](week-01.jpg)
 
 I loved looking at the 
 
