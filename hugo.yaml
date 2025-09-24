@@ -12,30 +12,6 @@ DefaultContentLanguage: en
 # This will make .Summary and .WordCount behave correctly for CJK languages.
 hasCJKLanguage: false
 
-languages:
-    en:
-        languageName: English
-        title: Kate Channing | Reflective Journal
-        weight: 1
-        params:
-            sidebar:
-                subtitle: Weekly reflections, research & process for MA Graphic Design @ Falmouth online
-    zh-cn:
-        languageName: 中文
-        title: 演示站点
-        weight: 2
-        params:
-            sidebar:
-                subtitle: 演示说明
-    ar:
-        languageName: عربي
-        languagedirection: rtl
-        title: موقع تجريبي
-        weight: 3
-        params:
-            sidebar:
-                subtitle: وصف تجريبي
-
 services:
     # Change it to your Disqus shortname before using
     disqus:
@@ -62,12 +38,19 @@ params:
       src: img/avatar.png
 
   widgets:
-    homepage: ["search", "archives", "categories", "tag-cloud"]
-    page: ["search", "toc", "categories", "tag-cloud"]
+    homepage:
+      - type: search
+      - type: archives
+      - type: categories
+      - type: tag-cloud
+    page:
+      - type: search
+      - type: toc
+      - type: categories
+      - type: tag-cloud
 
   mainSections:
-    - posts
-                  
+    - posts                 
 
 article:
         math: false
