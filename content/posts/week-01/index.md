@@ -6,7 +6,7 @@ categories: ["GDE741"]
 modules: ["GDE741"]
 tags: ["week-01", "reflection", "research"]
 summary: "Initial goals and first tasks."
-image: "/assets/img/cover.jpg"
+image: "cover.jpg"
 ---
 
 I'm really glad to be back on the course and I'm super excited to get started with GDE740 this week. Overall, I feel much more focused after takikng a break. I also feel like I've learned a lot about myself and my practise 
