@@ -24,10 +24,10 @@ The one thing the project needs to do is respond to an issue, cause or narrative
 ## My place in the Industry 
 The first thing I did to start this module before I intermitted was consider my identity and my place in the industry. As I mentioned, I feel like I've changed quite a bit since then, so I'd be interested to do the same thing now. 
 
-# Who am I?
+### Who am I?
 I am a freelance graphic designer, illustrator and front-end developer, with a goal to work in-house as a web designer/developer, a UI/UX designer or as part of design team. My interests include packaging design, brand design, social media and marketing. In my free time, I love to draw, and I enjoy designing characters and drawing/writing comics and graphic novels.
 
-# My Current Skills: 
+### My Current Skills: 
 
 - Illustration (editorial, commercial, character)
 - Graphic design 
@@ -40,7 +40,7 @@ I am a freelance graphic designer, illustrator and front-end developer, with a g
 - Drawing
 - Copywriting
 
-# Skills I'd Like to Develop
+### Skills I'd Like to Develop
 
 - Continue learning coding languages (Back-end, software dev, etc.) 
 - Animation and motion graphics
