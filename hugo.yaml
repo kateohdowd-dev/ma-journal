@@ -35,6 +35,7 @@ params:
     avatar:
       enabled: true
       local: true
+      emoji: ✏️
       src: img/avatar.png
 
   widgets:

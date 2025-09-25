@@ -267,4 +267,4 @@ https://www.itsnicethat.com/articles/amy-moss-illustration-270421
 ## References
 
 https://ukgamesfund.com/funded-project/sovereign/
-https://www.itsnicethat.com/features/the-guardian-election-editorial-graphic-design-illustration-spotlight-140624?utm_source=chatgpt.com  
+https://www.itsnicethat.com/features/the-guardian-election-editorial-graphic-design-illustration-spotlight-140624?.com  
