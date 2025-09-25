@@ -6,7 +6,7 @@ categories: ["GDE741"]
 modules: ["GDE741"]
 tags: ["week-01", "reflection", "research"]
 summary: "Initial goals and first tasks."
-image: "cover.jpg"
+image: "bbc.jpeg"
 ---
 
 I'm really glad to be back on the course and I'm super excited to get started with GDE740 this week. Overall, I feel much more focused after taking a break. I also feel like I've learned a lot about myself and my practise 
@@ -180,6 +180,8 @@ Maybe a great deal of creation is actually that. *Berger, 2017*
 
 So maybe traditional drawing is the perfect medium through which to show that errors imperfections are totally normal and healthy. 
 
+## Culture and Human Rights
+
 During week 11 of GDE710, 'Trends and Environments', we looked at the concepts of signs and semiotics. Something I noticed when looking through the content for this week was my reaction to seeing the Union Jack flag - totally different to how it felt way back when I first wrote this entry in 2023. 
 
 
@@ -188,12 +190,42 @@ During week 11 of GDE710, 'Trends and Environments', we looked at the concepts o
 
 In recent years, the Union Jack and St George’s Cross have been increasingly co-opted by Reform UK and other far-right groups as visual shorthand for nationalism, with the flags appearing not only in political campaigns but also painted across streets, road signs, and public spaces in ways that often sit outside of formal regulation. While supporters frame these displays as expressions of patriotism and national pride, for many, particularly people of colour living in the UK, the imagery has become fraught, associated less with inclusivity and more with exclusion, racism, and far-right rhetoric. As a result, what was once a broadly recognised national emblem has, in some contexts, come to carry connotations of fascism, hostility, and hate.
 
-The rise of right-wing politics and fascism in the world today is something that creally frightens me. It's also terrifuing to me how quickly a sign can be adpoted to have, in my opinion, hateful connotations. 
-Maybe my project could take a look at signs and semiotics and issues of culture, perhaps looking at how global practise could be seen as an antidote to fascism and xenophobia. The risk we run with nationalistic pride is ending up in a sinkhole where not only do we not accept or, we don't fundamentally understand or communicate with them, which si incredibly dangerous. It's important for us to know what's going on around the world and in other cultures, even if we don't necessarily agree with those views. I loved projects such as Havana Club, that take a multicultural look at design practise to create a bright and insightful project. For this project, I could look at he concept of culture or nationality visually, and how the world's increasing favour of right-wing nationalism might affect the design landscape. 
+The rise of right-wing politics and fascism in the world today is something that creally frightens me, and it's terrifying to me how quickly a sign can be adpoted to have (in my opinion) hateful connotations. For that reason, I was considering whether my project could take a look at signs and semiotics within culture, or perhaps looking at how global practise and collaboration within creative industries could be seen as an antidote to fascism and xenophobia. 
 
-I also loved looking back at the work of Dunne and raby and their futuristic speculative design. Their strange projects take a look at how the future might look. 
-Design for a better tomorrow
-Forensic architecture 
+
+![A Reform UK supporter holding up a St Georges flag painted with the words 'GET OFF MY LAND'](idiot.jpg)
+
+
+I personally feel that the risk we run with nationalistic pride is ending up in an echo chamber where, not only do we not accept other cultures, but we also fundamentally don't understand or communicate with them, which is incredibly dangerous. It's important for us to know what's going on around the world and in other cultures, even if we don't necessarily agree with those views. I loved projects such as the Havana Club by Pearlfisher UK, which took a multicultural look at design practise to create a bright and insightful project inspired by other cultures. 
+
+
+['Havana Club' brand and packaging design by Pearlfisher](1248023.jpg) 
+
+This got me thinking that for this project, I could possibly take a visual look at the concept of culture or nationality, and how the world's increasing favour of right-wing nationalism might affect the design landscape. 
+
+I also loved looking back at the work of Dunne and raby and their futuristic speculative design. Their strange projects that take a bizarre and sometimes bleak and frightening look at potential human futures really stood out to me, considering the current state of the world. 
+
+The work of studios like Forensic Architecture, a research agency at the University of London who use advanced interdisciplinary techniques and mediums, such as technology, art and design, to investigate state and corporate violence. I absolutely love what Forensic Architecture do, and feel like this is a great example of how design and tech can be used as powerful tools when it comes to social justice and human rights. I'd love to look more into how design can be used to build a better, fairer future.
+
+## 'Message Delivered' 
+
+The entirety of Week 9 of GDE710, 'Message Delivered', really stood out to me. As mentioned in my previous idea, I love sending messages through design, and I feel like art and design are some of the best mediums through which to promote real world change. 
+
+One of my best experiences as a designer/illustrator so far was when my project 'Angel shot' won first place at the Creative Conscience awards 2022. I developed the project as a way to send a message about spiking and women's safety through an alcohol brand that promoted these values. This was a subject I felt really passionate about, and I feel like it shows through the work - something that really motivates me is feeling strongly about a cause or subject, and I always try to do my bit to help causes that I care about 
+
+Friends of the earth, PETA, etc. 
+
+Love snarky juxtaposition - vigilant floral
+Violence against women, anti-sexism, 
+My work was a little gratuitous, how could I improve it? 
+
+During Week 9, we took a look at the concept of 'the medium is the message', an idea coined by Marshall McLuhan, which asserts that the medium through which a message is sent is just as important, if not more important, than the message itself. We looked at so many great examples of design that sends a message not just through it's content, but through the medium itself, but one that stood out to me recently was the BBC's 'Vote Stamp' campaign. In 2024, the UK government announced that photo ID was now necessary to vote during an election, however Electoral Commission research found that 33% of young people still forgot their ID or were totally unaware of the change. 
+
+To tackle this, the BBC implemented a campaign in which, after viewing and accepting ID, bouncers at UK bars and clubs would stamp the wrists of young people after granting access with a stamp that said 'You need ID to vote, too". with the creative director of BBC Creative saying "If they didn't spot it that night, they would see it on their arm the next morning." I don't know quite how you wouldn't spot it, but 
+
+Another great example of medium as message I came across recently 
+
+This project is a great example of medium as message, and how these innovative approaches to sending political and social messages can be hugely effective in the promotion and retention of that message. I'd love to take inspiration from approaches like these in my project, and maybe utilise similar techniques to send messages about causes that matter to me. I'd love to take another look at some of my previous ideas which I now feel were a bit aggressive and refine them, considering how to be tasteful in my approach to these subjects. 
 
 Looked at practises in our area - literally no web development 
 Building a web dev portfolio? 
@@ -207,17 +239,6 @@ Feminism and identity - noticing the ignored, Vivian meiar
 Anti-establishment, off the grid living, dropping out of society - the woods
 
 Skill development (week 8) - illustration, staying a student, would love to revisit the hideous flowmap app and re-build it with my new web development/programming skills. Would be a great way to continue to build my skills 
-
-‘Message delivered’ - sending messages through design
-Smth I lovee
-Angel shot 
-Whatever I do I try to say something 
-Friends of the earth, PETA, etc. 
-The medium is the message and political design 
-The power of design and media
-Love snarky juxtaposition - vigilant floral
-Violence against women, anti-sexism, 
-My work was a little gratuitous, how could I improve it? 
 
 
 ![An old Penguin book cover design](week-01.jpg)
