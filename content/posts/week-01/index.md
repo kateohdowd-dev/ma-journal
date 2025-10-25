@@ -9,18 +9,25 @@ summary: "Initial goals and first tasks."
 image: "bbc.jpeg"
 ---
 
-I'm really glad to be back on the course and I'm super excited to get started with GDE740 this week. Overall, I feel much more focused after taking a break. I also feel like I've learned a lot about myself and my practise 
-while I've been gone - I've been starting to learn web development and coding, and absolutely loving it. I've really been exploring the intersection between design and tech, and I'd love to bring this into my work moving forward!
+I'm really glad to be back on the course and I'm super excited to get started with GDE740 this week - I feel much more focused after taking a break. I also feel like I've learned a lot about myself and my practise 
+while I've been gone - I've recently started to learn web development and coding, and I'm absolutely loving it. I've realised that I'm so fascinated in the intersection between design and tech, so I'd love to bring this into my work moving forward!
 
-To kick this module off, we're starting a four week self initiated project. I've really been battling with the challenge of finding time to work on self initiated projects recently. I wish I had more time to dedicate to personal projects, and this is something that was touched on briefly during this week's lecture which I really appreciated. There were so many great insights into the nature and importance of self-initiated projects this week, and I personally feel that self initiated projects are a great way to really reclaim your practise and define who your are as an designer.
+To start this module, we're starting a four week project that focuses on the theme of self-initited projects in graphic design. I've always found this theme interesting, as work and play can so easily become blurred when you do something creative that you're fundamentally passionate about for a living. 
+
+I've always found it hard to find time to work on self initiated projects. It's frustrating as I wish I had more time to dedicate to personal projects, but this is something that was touched on briefly during this week's lecture which I really appreciated, and it made me realise that I'm not the only graphic designer who faces this problem.
+
+ There were so many great insights into the nature and importance of self-initiated projects this week. I personally feel that self initiated projects are a great way to really reclaim your practise and define who you are both as an designer and as a person.
 
 ### Lecture Reflections
 
-This week's lecture was all about self initiated projects, with each creative practitioner answering questions related to self initiated projects. I found it really interesting to hear how such a broad range of practitoners find inspiration and ideas for the subject of self initiated projects, as well as hearing how these projects are then practically structured and organised, particularly when they have to be planned around other commercial work.  
+As mentioned, this week's lecture was all about self initiated work, with a particular emphasis on balancing work and play and where to find inspiration and ideas. Each creative practitioner answered questions related to how they've approached and developed self initiated projects in the past, and many discussed how they'd like to make time ot develop more in the future. 
 
-A practitioner who really stood out to me this week was James Stringer from Werkflow. I absolutely loved the project he was talking about - Sovereign, a first person, magical realist adventure game, set in the fictional suburban town of Bridewell in England during the early ‘noughties’ (cite). 
+The range of pracitioners in this week's lecture was so diverse, and I found it really interesting to hear how each found inspiration and ideas for self initiated projects, From a practical perspective, it was also interesting to see how these projects are then practically structured and organised, particularly when they have to be planned around other commercial work.  
 
-https://www.youtube.com/watch?v=dFrKmJHyJoo
+A practitioner who really stood out to me this week was James Stringer from Werkflow. I absolutely loved the project that he was discussing - Sovereign - a first person, magical realist adventure game, set in the fictional suburban town of Bridewell in England during the early ‘noughties’ (cite). 
+
+![](https://www.youtube.com/watch?v=dFrKmJHyJoo)
+<video src="https://www.youtube.com/watch?v=dFrKmJHyJoo" controls preload></video>
 
 I found James' insights into self initiated work really interesting. I loved hearing about James Stringer's inspiration for the game, and how the game is rooted in personal experiences. I feel like this is such a special example of a self initiated project because it really came from the heart - James wanted to use digital storytelling to present a realistic and sympathetic insight into the lives of British teenagers and relay his own experiences. 
 
