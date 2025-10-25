@@ -26,8 +26,13 @@ The range of pracitioners in this week's lecture was so diverse, and I found it 
 
 A practitioner who really stood out to me this week was James Stringer from Werkflow. I absolutely loved the project that he was discussing - Sovereign - a first person, magical realist adventure game, set in the fictional suburban town of Bridewell in England during the early ‘noughties’ (cite). 
 
-![](https://www.youtube.com/watch?v=dFrKmJHyJoo)
-<video src="https://www.youtube.com/watch?v=dFrKmJHyJoo" controls preload></video>
+<iframe width="560" height="315"
+  src="https://www.youtube.com/watch?v=dFrKmJHyJoo"
+  title="YouTube video player"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
 
 I found James' insights into self initiated work really interesting. I loved hearing about James Stringer's inspiration for the game, and how the game is rooted in personal experiences. I feel like this is such a special example of a self initiated project because it really came from the heart - James wanted to use digital storytelling to present a realistic and sympathetic insight into the lives of British teenagers and relay his own experiences. 
 
