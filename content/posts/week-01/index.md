@@ -215,7 +215,7 @@ The idea of rebelling against the sterility of digital perfection leads well int
 During Week 4 of GDE710,'The Self and Identity', we took a look at ourselves and our values and made moodboards based on each of these. One of my values was 'imperfection', and that definitely hasn't changed. It might seem like a strange value to have, but I think imperfection and vulnerability are traits that it's not only hugely important to accept, but also to be open about.
 
 
-![My 'Imperfection' moodboard for Week 4 of GDE710](mb%202.png)
+![My 'Imperfection' moodboard for Week 4 of GDE710](uh.png)
 
 
 In today's digital age, the idea of 'perfection' is everywhere and something that people, perticularly young people, are taught to aim for. Young people, in particular young women, are shown a version of reality that is not only usually heavily manufactured but also likely totally unattainable by social media 'influencers'. 
