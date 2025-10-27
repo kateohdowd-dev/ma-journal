@@ -16,7 +16,7 @@ To start this module, we're starting a four week project that focuses on the the
 
 I've always found it hard to find time to work on self initiated projects. It's frustrating as I wish I had more time to dedicate to personal projects, but this is something that was touched on briefly during this week's lecture which I really appreciated, and it made me realise that I'm not the only graphic designer who faces this problem.
 
- There were so many great insights into the nature and importance of self-initiated projects this week. I personally feel that self initiated projects are a great way to really reclaim your practise and define who you are both as an designer and as a person.
+There were so many great insights into the nature and importance of self-initiated projects this week. I personally feel that self initiated projects are a great way to really reclaim your practise and define who you are both as an designer and as a person.
 
 ## Lecture Reflections
 
@@ -55,9 +55,11 @@ This got me thinking about possibly considering how design thinking can be used 
 ## Looking back & initial ideas 
 It was reccomended this week that we look back at work from the very first module, GDE710, to try and gather some ideas for potential development, so I started this week by looking back at my older work. I've been feeling a bit disconnected from my practise recently, so the opportunity to go back over some older work and think about what really matters to me as a practitioner was very helpful. 
 
-It took me a while to familiarise myself with what I had actually gotten up to in GDE710, as because of my period of intermission, it was technically three years ago now (which is crazy). I feel like I've changed so much as a practitioner and a person since GDE710, but I loved looking back at the work I'd completed, and most importantly, it gave me so many starting points and so much inspiration. 
+It took me a while to familiarise myself with what I had actually gotten up to in GDE710, as because of my period of intermission, it was technically three years ago now (which is crazy). I feel like I've changed so much as a practitioner and a person since GDE710, but I loved looking back at the work I'd completed. Most importantly, it gave me so many starting points and so much inspiration. 
 
-It was outlined this week that one thing the project needs to do is respond to an issue, cause or narrative that is important to us, so it's important to make sure that this project is valuable and fulfilling, which is something that I always like to try and make sure my projects are. I'd like to choose a subject or theme that is quite personal, especially considering that the next brief could end up being more commercial. I also think that by nature, a self initiated project should be something that’s personally important, as it’s rare that we get the time to work on them - it's nice to have the opportunity to do that now.
+It was outlined this week that one thing the project needs to do is respond to an issue, cause or narrative that is important to us, so it's important to make sure that this project is valuable and fulfilling, which is something that I always like to try and make sure my projects are. 
+
+I'd like to choose a subject or theme that is quite personal, especially considering that the next brief, 'Industry Set', could end up being more commercial. I also think that by nature, a self initiated project should be something that’s personally important, as it’s rare that we get the time to work on them - it's nice to have the opportunity to do that now.
 
 ### My place in the Industry 
 Before I intermitted, the first thing I did to start this module was consider my identity and my place in the industry. As I mentioned, I feel like I've changed quite a bit since then, so I'd be interested to look back at what I wrote three years ago, and compare it to who I am now. 
@@ -111,17 +113,21 @@ However, I agree with the other two criteria that I outlined for my project orig
 
 ### Disability Awareness
 
-Back in 2023 I identified disability/neurodiversity awareness as a recurring theme in my work and something I'm deeply passionate about., especially after looking back at my work for Week 4 of GDE710, 'The Self and Identity'. As someone with a hidden disability myself, I feel like the potential of design and tech to enhance the lives of people with disabilities, educate people about disabiltiies and support the carers and loved ones of people with disabilities, is really endless. 
+Back in 2023 I identified disability/neurodiversity awareness as a recurring theme in my work and something I'm deeply passionate about, especially after looking back at my work for Week 4 of GDE710, 'The Self and Identity'. 
 
-Thinking about how technology is used to solve everyday problems
+
+![A moodboard I made for Week 4 of GDE710 based around my personal value of 'growth'](mb.png)
+
+
+As someone with a hidden disability myself, I feel like the potential of design and tech to enhance the lives of people with disabilities, educate people about disabiltiies and support the carers and loved ones of people with disabilities, is really endless. 
 
 ### Mental health 
 
-One recurring theme that stood out to me when initially brainstorming ideas way back in 2023 was mental health. I've gone through personal struggles with my mental health, and I strongly believe that art, design and tech have huge potential to both be therapeutic as a practise, and can be used as a means to develop solutions for people who are struggling.
+Another recurring theme that stood out to me when initially brainstorming ideas way back in 2023 was mental health. I've personally gone through struggles with my mental health, and I strongly believe that art, design and tech have huge potential to both be therapeutic as a practise, and can be used as a means to develop solutions for people who are struggling.
 
 (find an artist) 
 
-Although it's important not to be insensitive, I love to use humour to enhance these themes because I feel like its a great way of coping. During my BA, I developed a pack of passive-aggressive affirmation cards that I really wanted to finish but never got the chance to - A simple project like finishing those cards or creating something similar could be a nice way to get back into things, and could link to the illustrative side of my practise well.
+Although it's important not to be insensitive, I love to use humour to enhance these themes because I feel like it's a great way of coping. During my BA, I developed a pack of passive-aggressive affirmation cards that I really wanted to finish but never got the chance to - A simple project like finishing those cards or creating something similar could be a nice way to get back into things, and could link to the illustrative side of my practise well.
 
 Design based activism 
 Burnout rescue box
@@ -134,23 +140,30 @@ Merges a lot of the elements of my personal practise
 
 ### Music 
 
-Music is another huge passion of mine. After looking back through my GDE710 work, I noticed that I'd touched on the intersection between music and graphic design briefly in Week 3.
+Music is another huge passion of mine - I've always loved to sing and play music and I've recently gotten really into music production and DJing, as they intersect music and tech in such a satisfying way.
 
+After looking back through my GDE710 work, I noticed that I'd touched on the intersection between music and graphic design briefly in Week 3.
 
+![A poster for 'Brutalismus 3000' by Tobias Bollinger](bollinger.webp)
 
-I thought back to my research into design for the music industry, common audio-visual trends, music festival posters, and the concept of auditory type. I considered that maybe this could be an interesting area to develop further. 
-
+I thought back to my research into design for the music industry, common audio-visual trends, music festival posters, and the concept of auditory type, and considered that maybe this could be an interesting area to develop further that would allow me to integrate and develop newfound skill and interests. 
 
 ### Small business 
 
 Sometimes, I get quite frustrated living in Plymouth, UK, because there aren't many in-house tech or design jobs available here. However, after looking back at my work for week 2 of GDE710, I realised that a key hallmark of Plymouth's identity is small business, with a particular focus on arts and crafts. 
 
-In this sense, Plymouth is a great place for designers, as there are small businesses everywhere who are looking for rebrands, logos, websites and even marketing assistance. I identified this as a potential subject for my project - Maybe I could find a business that resonated with me and create work for them, or maybe I could create my own fictional brand to develop an identity and strategy for. 
+
+![Plymouth Market, Plymouth, UK](plymouth-market.jpg)
+
+
+In this sense, Plymouth is a great place for designers, as there are small businesses everywhere looking for rebrands, logos, websites and even marketing assistance. 
+
+I identified this as a potential subject for my project - Maybe I could find a business that resonated with me and create work for them, or maybe I could create my own fictional brand to develop an identity and strategy for?
 
 ### Storytelling 
 As mentioned, another huge theme in my work that I identified way back in 2023 was the power of storytelling to make social change. As an illustrator first and foremost, storytelling is at the heart of everything I do. Now that I've started to look into coding, programming and web, I feel like there are so many unique ways to tell stories and share them. 
 
-(find examples of storytelling as therapy, storytelling in advertising/marketing)
+(find examples of storytelling as therapy, storytelling in advertising/marketing)video games, interactive advertising/ARGs
 
 I developed a zine of testimonies while making the spiking project that gave the project a personal touch.Maybe something related to this? 
 
@@ -177,7 +190,13 @@ Something that really stood out to me during my research for 'Industry Today' wa
 
 Analogue textures and mixed media are not only design techniques/aesthetics that I personally love, but they are very popular at the moment in the graphic design space. I think that the current popularity of these mediums and tecniques is largely because they serve as an antidote to the influx of incredibly tech-heavy, clean design that is present at the moment. The insurgence of AI has definitely had a hand in this, and the idea that a machine could potentially do designer's or artist's jobs is an ever present danger. 
 
+
+!['Growth', a mixed media collage by Sarah Forester](sarah.webp)
+
+
 As a graphic designer, I see the use of analogue textures and mixed media as a quiet act of rebellion against the polished sterility of digital design. In an era where AI can generate flawless, hyper-clean visuals in seconds, the imperfections of hand-made marks, torn paper, paint strokes, and layered materials feel deeply human, and serve as an antidote to the algorithm. These tactile interventions disrupt the screen's smooth surface, reminding us that design is not only about precision but also about presence, process, and personality. There's something so unique, full of personality and rebellious about choosing analogue media to create a design in a world where tech is so accessible and frequently becoming ever more commonplace in creative fields. 
+
+!['Dancing', a mixed media animation by Tala Rae](dancing.gif)
 
 During Week 1 of GDE710, I briefly touched on the importance of a 'human touch' in graphic design, and how details such as hand-drawn illustration can make commercial projects feel more approachable and human. A campaign that utilised traditional mediums as a direct statement against AI recently was The Guardian's coverage of the UK Election. In 2024, the Guardian's creative team made all of their election artwork by hand, partly inspired by the notion of 'broken Britain', and in direct response to the rise of AI generative imagery and fake news (cite)
 
@@ -187,19 +206,30 @@ All of their artwork for the election coverage was made with deliberately imperf
 
 >"The main spark of inspiration came from a conversation with a desk editor describing the country as ‘broken’, with nothing fitting or working quite as it should. This in parallel with the rise in disinformation, and fakery either through AI or generative articles really cemented the idea to do the direct opposite and be as honest and transparent in the creative process as we could – to lean into the craft of doing things for real." *Chris Clarke, Creative Director at the Guardian*
 
-I love this idea of analogue, mixed media textures as a direct rebellion against the current digital age, and the misinformation and deception that digital mediums and AI technology can bring. I'd love to potentially explore this further in my final project for these four weeks 
+I love the idea of analogue, mixed media textures being a direct rebellion against the current digital age, and the misinformation and deception that digital mediums and AI technology can bring. I'd love to potentially explore this further in my final project for these four weeks 
  
- ### The Importance of Imperfection 
+### The Importance of Imperfection 
 
 The idea of rebelling against the sterility of digital perfection leads well into my next area of interest for this project - imperfection, particularly in relation to identity and mental health. 
 
 During Week 4 of GDE710,'The Self and Identity', we took a look at ourselves and our values and made moodboards based on each of these. One of my values was 'imperfection', and that definitely hasn't changed. It might seem like a strange value to have, but I think imperfection and vulnerability are traits that it's not only hugely important to accept, but also to be open about.
 
-In today's digital age, the idea of 'perfection' is everywhere and something that people, perticularly young people, are taught to aim for. Young people, in particular young women, are shown a version of reality that is not only usually heavily manufactured but also likely totally unattainable by social media 'influencers'. Tiktok trends like *italic*'clean girl'*italic* ,and *italic*looksmaxxing*italics*' perpetuate harmful messages about appearance, and a lot of lifestyle and study content that is supposedly candid portrays a toxic and filtered idea of reality which pushes perfection as something the bare minimum that should come naturally, which is unrealistic and unfair. 
+
+![My 'Imperfection' moodboard for Week 4 of GDE710](mb%202.png)
+
+
+In today's digital age, the idea of 'perfection' is everywhere and something that people, perticularly young people, are taught to aim for. Young people, in particular young women, are shown a version of reality that is not only usually heavily manufactured but also likely totally unattainable by social media 'influencers'. 
+
+![An AI generated model recently used in advertising by the clothing brand Mango](mango.jpeg)
+
+Tiktok trends like *'clean girl'*, *'looksmaxxing*' and  *'thinspo'* perpetuate harmful messages about appearance, and a lot of 'lifestyle' and 'study' content that is supposedly candid portrays a toxic and filtered idea of reality which pushes perfection as a bare minimum that should come naturally, which is unrealistic and unfair. 
+
+![A wallpaper based on the 'Clean Girl' aesthetic. While not intentionally harmful, many people have criticised 'clean girl' and similar 'aesthetics' for breeding insecurity and toxic perfectionism](cleangirl.jpeg)
+
 
 From a feminist perspective, things are worse than ever these days for young women - as the use of AI models becomes more frequent and commonplace, young girls are being taught to aim for beauty standards that are not only unattainable - they aren't even real. 
 
-I think embracing imperfection and the reality that things aren't always perfect, in fact they rarely are, is hugely important. I know that in advertising, an idealistic worldview is usually just part of selling a product, but I think we owe it to people, especially young people, to show them a realistic version of the world to encourage tham that it's okay to be human. 
+I think embracing imperfection and the reality that things aren't always perfect (in fact they rarely are) is hugely important. I know that in advertising, an idealistic worldview is usually just part of selling a product, but I think we owe it to people, especially young people, to show them a realistic version of the world to encourage tham that it's okay to be human. 
 
 Something Vince Frost said really stood out to me this week: 
 
@@ -207,7 +237,9 @@ Something Vince Frost said really stood out to me this week:
 
 I'd love to maybe use this as a theme to start my project, taking the idea of imperfection and presenting it as something that's totally normal, rather than something to be ashamed of. I can see how this could also potentially link to my first idea, as half of the charm of analogue mediums is in their unique imperfections. 
 
-I loved looking at artist and designer's sketchbooks during GDE710, as they're a great example of how, without the chaotic imperfection of the first draft, you'd never get a 'perfect' final product. John Berger once said: 
+I loved looking at artist and designer's sketchbooks during GDE710, as they're a great example of how, without the chaotic imperfection of the first draft, you'd never get a 'perfect' final product. 
+
+John Berger once said: 
 
 >Drawing is a constant correction of errors.
 Maybe a great deal of creation is actually that. *Berger, 2017*
@@ -260,7 +292,7 @@ After looking back through my work for GDE710, the entirety of Week 9, 'Message 
 One of my best experiences as a designer/illustrator so far was when my project 'Angel Shot' won first place at the Creative Conscience awards 2022. I developed the project as a way to send a message about anti-spiking and women's safety by developing safety conscious packaging for an alcohol brand that promoted these values. This was my first time developing a project where the medium was the message, and I was satisfied with the outcome - using the medium of alcohol packaging to get the message across was a really fun way to promote the cause, and something that really motivates me as a designer is doing my bit to help causes or subjects that I feel strongly about.
 
 
-
+![A can design for the 'Angel Shot' brand](as.png)
 
 During Week 9, we took a look at the concept of *'the medium is the message'*, an idea coined by Marshall McLuhan, which asserts that the medium through which a message is sent is just as important, if not more important, than the message itself. 
 
@@ -280,7 +312,6 @@ The creative director of BBC Creative was quoted as saying:
 This project is a great example of medium as message, and how these innovative approaches to sending political and social messages can be hugely effective in the promotion and retention of that message. 
 
 I'd love to take inspiration from creative approaches like these in my project, and maybe utilise similar techniques to send messages about causes that matter to me. I'd love to possibly take another look at some of my previous ideas from GDE710 which I now feel were a bit aggressive, such as the women's safety posters, and refine them with a mor etasteful approach, which is something that is really important when tackling difficult subjects. 
-
 
 Feminism and identity - noticing the ignored, Vivian meiar 
 
