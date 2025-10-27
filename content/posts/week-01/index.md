@@ -18,7 +18,7 @@ I've always found it hard to find time to work on self initiated projects. It's 
 
  There were so many great insights into the nature and importance of self-initiated projects this week. I personally feel that self initiated projects are a great way to really reclaim your practise and define who you are both as an designer and as a person.
 
-### Lecture Reflections
+## Lecture Reflections
 
 As mentioned, this week's lecture was all about self initiated work, with a particular emphasis on balancing work and play and where to find inspiration and ideas. Each creative practitioner answered questions related to how they've approached and developed self initiated projects in the past, and many discussed how they'd like to make time ot develop more in the future. 
 
@@ -52,7 +52,7 @@ I think sometimes the most innovative ideas come from self-initiated projects, b
 
 This got me thinking about possibly considering how design thinking can be used as a tool to enhance lifestyle and productivity as something I could develop further in my self initiated project. 
 
-### Looking back & initial ideas 
+## Looking back & initial ideas 
 It was reccomended this week that we look back at work from the very first module, GDE710, to try and gather some ideas for potential development, so I started this week by looking back at my older work. I've been feeling a bit disconnected from my practise recently, so the opportunity to go back over some older work and think about what really matters to me as a practitioner was very helpful. 
 
 It took me a while to familiarise myself with what I had actually gotten up to in GDE710, as because of my period of intermission, it was technically three years ago now (which is crazy). I feel like I've changed so much as a practitioner and a person since GDE710, but I loved looking back at the work I'd completed, and most importantly, it gave me so many starting points and so much inspiration. 
@@ -62,10 +62,10 @@ It was outlined this week that one thing the project needs to do is respond to a
 ### My place in the Industry 
 Before I intermitted, the first thing I did to start this module was consider my identity and my place in the industry. As I mentioned, I feel like I've changed quite a bit since then, so I'd be interested to look back at what I wrote three years ago, and compare it to who I am now. 
 
-#### Who am I?
+### Who am I?
 I am a freelance graphic designer, illustrator and front-end developer, with a goal to work in-house as a web designer/developer, a UI/UX designer or as part of design team. My interests include packaging design, brand design, social media and marketing. In my free time, I love to write and draw, and I enjoy designing characters and creating comics and graphic novels.
 
-#### Recurrent themes in my work 
+### Recurrent themes in my work 
 
 - Social justice
 - Mental health
@@ -73,7 +73,7 @@ I am a freelance graphic designer, illustrator and front-end developer, with a g
 - Feminism
 - Storytelling and narrative
 
-#### My Current Skills: 
+### My Current Skills: 
 
 - Illustration (editorial, commercial, character)
 - Graphic design 
@@ -87,7 +87,7 @@ I am a freelance graphic designer, illustrator and front-end developer, with a g
 - Copywriting
 
 
-#### Skills I'd Like to Develop
+### Skills I'd Like to Develop
 
 - Continue learning coding languages (back-end, software dev, etc.) 
 - Animation and motion graphics
@@ -107,15 +107,15 @@ However, I agree with the other two criteria that I outlined for my project orig
 
 - I want this project to send a message. I love using my work to tackle themes and issues that are important to me, to raise awareness and hopefully help others.
 
-### Previous Ideas from 2023
+## Previous Ideas from 2023
 
-#### Disability Awareness
+### Disability Awareness
 
 Back in 2023 I identified disability/neurodiversity awareness as a recurring theme in my work and something I'm deeply passionate about., especially after looking back at my work for Week 4 of GDE710, 'The Self and Identity'. As someone with a hidden disability myself, I feel like the potential of design and tech to enhance the lives of people with disabilities, educate people about disabiltiies and support the carers and loved ones of people with disabilities, is really endless. 
 
 Thinking about how technology is used to solve everyday problems
 
-#### Mental health 
+### Mental health 
 
 One recurring theme that stood out to me when initially brainstorming ideas way back in 2023 was mental health. I've gone through personal struggles with my mental health, and I strongly believe that art, design and tech have huge potential to both be therapeutic as a practise, and can be used as a means to develop solutions for people who are struggling.
 
@@ -132,7 +132,7 @@ Humor to deal with mental health problems
 Looking on the bright side
 Merges a lot of the elements of my personal practise 
 
-#### Music 
+### Music 
 
 Music is another huge passion of mine. After looking back through my GDE710 work, I noticed that I'd touched on the intersection between music and graphic design briefly in Week 3.
 
@@ -141,13 +141,13 @@ Music is another huge passion of mine. After looking back through my GDE710 work
 I thought back to my research into design for the music industry, common audio-visual trends, music festival posters, and the concept of auditory type. I considered that maybe this could be an interesting area to develop further. 
 
 
-#### Small business 
+### Small business 
 
 Sometimes, I get quite frustrated living in Plymouth, UK, because there aren't many in-house tech or design jobs available here. However, after looking back at my work for week 2 of GDE710, I realised that a key hallmark of Plymouth's identity is small business, with a particular focus on arts and crafts. 
 
 In this sense, Plymouth is a great place for designers, as there are small businesses everywhere who are looking for rebrands, logos, websites and even marketing assistance. I identified this as a potential subject for my project - Maybe I could find a business that resonated with me and create work for them, or maybe I could create my own fictional brand to develop an identity and strategy for. 
 
-#### Storytelling 
+### Storytelling 
 As mentioned, another huge theme in my work that I identified way back in 2023 was the power of storytelling to make social change. As an illustrator first and foremost, storytelling is at the heart of everything I do. Now that I've started to look into coding, programming and web, I feel like there are so many unique ways to tell stories and share them. 
 
 (find examples of storytelling as therapy, storytelling in advertising/marketing)
@@ -163,15 +163,17 @@ Social media marketing
 Narrative through social media marketing? Like an ARG to promote 
 Mmm interesting tasty
 
-### Current Ideas
+## Current Ideas
 
 As well as looking back at ideas from my first attempt at this module, I went back over my work for GDE710 with fresh eyes this week to see what stood out to me, to try and develop some new ideas for this four week project. 
 
-#### Analogue Mediums
+### Analogue Mediums
 
 I really loved week 2 of GDE710, 'Industry Today', where we looked into the history of design. This really was a first look into the history of graphic design for me, as I was totally new to the field having come straight from an Illustration BA, and I found it absolutely fascinating. 
 
 Something that really stood out to me during my research for 'Industry Today' was how trends and techniques change, and in turn, how advancements in technology determine the latest trends. I loved looking at old penguin book covers and seeing the gritty, analogue textures and illustrations created with mixed media, as well as collage-based, analogue-heavy movements like Dadaism, and the fanzines of the 90s - a far cry from today's clean, tech-heavy graphics.
+
+![An old Penguin book cover design](week-01.jpg)
 
 Analogue textures and mixed media are not only design techniques/aesthetics that I personally love, but they are very popular at the moment in the graphic design space. I think that the current popularity of these mediums and tecniques is largely because they serve as an antidote to the influx of incredibly tech-heavy, clean design that is present at the moment. The insurgence of AI has definitely had a hand in this, and the idea that a machine could potentially do designer's or artist's jobs is an ever present danger. 
 
@@ -187,7 +189,7 @@ All of their artwork for the election coverage was made with deliberately imperf
 
 I love this idea of analogue, mixed media textures as a direct rebellion against the current digital age, and the misinformation and deception that digital mediums and AI technology can bring. I'd love to potentially explore this further in my final project for these four weeks 
  
- ## The Importance of Imperfection 
+ ### The Importance of Imperfection 
 
 The idea of rebelling against the sterility of digital perfection leads well into my next area of interest for this project - imperfection, particularly in relation to identity and mental health. 
 
@@ -212,68 +214,78 @@ Maybe a great deal of creation is actually that. *Berger, 2017*
 
 So maybe traditional drawing is the perfect medium through which to show that errors and imperfections are totally normal and healthy? It's definitely something I'd like to explore. 
 
-## Culture and Human Rights
+### Culture and Human Rights
 
-During week 11 of GDE710, 'Trends and Environments', we looked at the concepts of signs and semiotics. Something I noticed when looking through the content for this week was my reaction to seeing the Union Jack flag - totally different to how it felt way back when I first wrote this entry in 2023. 
-
-
-![A UK roundabout painted with the St George's flag](st-george.png)
+During Week 11 of GDE710, 'Trends and Environments', we looked at the concepts of signs and semiotics. Something that I noticed when looking through the content for this week was my reaction to seeing the Union Jack flag. Jarringly, my reaction to seeing the flag now was totally different to way back when I first wrote this entry in 2023 - this is because of the flag's current connotations. 
 
 
-In recent years, the Union Jack and St George’s Cross have been increasingly co-opted by Reform UK and other far-right groups as visual shorthand for nationalism, with the flags appearing not only in political campaigns but also painted across streets, road signs, and public spaces in ways that often sit outside of formal regulation. While supporters frame these displays as expressions of patriotism and national pride, for many, particularly people of colour living in the UK, the imagery has become fraught, associated less with inclusivity and more with exclusion, racism, and far-right rhetoric. As a result, what was once a broadly recognised national emblem has, in some contexts, come to carry connotations of fascism, hostility, and hate.
+![A UK roundabout painted with St George's flag](st-george.png)
 
-The rise of right-wing politics and fascism in the world today is something that creally frightens me, and it's terrifying to me how quickly a sign can be adpoted to have (in my opinion) hateful connotations. For that reason, I was considering whether my project could take a look at signs and semiotics within culture, or perhaps looking at how global practise and collaboration within creative industries could be seen as an antidote to fascism and xenophobia. 
+
+In recent years, the Union Jack and St George’s Cross have been increasingly co-opted by Reform UK and other far-right groups as visual shorthand for nationalism, with the flags appearing not only in political campaigns but also painted across streets, road signs, and public spaces in ways that often sit outside of formal regulation. While supporters frame these displays as expressions of patriotism and national pride, for many, particularly immigrants and people of colour living in the UK, the imagery has become fraught, associated less with inclusivity and more with exclusion, racism, and far-right rhetoric. As a result, what was once a broadly recognised national emblem has, in some contexts, come to carry connotations of fascism, hostility, and hate.
+
+The rise of right-wing politics and fascism in the world today is something that terrifies me, and it's crazy to me how quickly a simple symbol can be adpoted to have (in my opinion) hateful connotations and instil fear in people. 
+
+For these reasons, I was considering whether my project could take a look at signs and semiotics within culture today. Something that could also be interesting to investigate is whether global practise and collaboration within creative industries could be seen as an antidote to fascism and xenophobia. 
 
 
 ![A Reform UK supporter holding up a St Georges flag painted with the words 'GET OFF MY LAND'](idiot.jpg)
 
 
-I personally feel that the risk we run with nationalistic pride is ending up in an echo chamber where, not only do we not accept other cultures, but we also fundamentally don't understand or communicate with them, which is incredibly dangerous. It's important for us to know what's going on around the world and in other cultures, even if we don't necessarily agree with those views. I loved projects such as the Havana Club by Pearlfisher UK, which took a multicultural look at design practise to create a bright and insightful project inspired by other cultures. 
+I personally feel that the risk we run with nationalistic pride is ending up in an echo chamber where, not only do we not accept other cultures, but we also fundamentally don't understand or communicate with them, which is incredibly dangerous. It's important for us to know what's going on around the world and in other cultures, even if we don't necessarily agree with those views. I loved projects such as the Havana Club by Pearlfisher UK, which took a multicultural look at design practise to create a bright and insightful project inspired by multiple cultural ideals and visual motifs. 
 
 
-['Havana Club' brand and packaging design by Pearlfisher](1248023.jpg) 
+!['Havana Club' brand and packaging design by Pearlfisher](1248023.jpg) 
 
-This got me thinking that for this project, I could possibly take a visual look at the concept of culture or nationality, and how the world's increasing favour of right-wing nationalism might affect the design landscape. 
+Another possibility for this theme is that I could take a look at the concept of culture or nationality through a visual lens, and how the world's increasing favour of right-wing nationalism might affect the design landscape. 
 
-I also loved looking back at the work of Dunne and raby and their futuristic speculative design. Their strange projects that take a bizarre and sometimes bleak and frightening look at potential human futures really stood out to me, considering the current state of the world. 
+In GDE710, I loved looking back at the work of Dunne and Raby and their futuristic speculative design. Their strange projects that take a bizarre and sometimes bleak and frightening look at potential human futures really stood out to me, considering the current state of the world. 
 
-The work of studios like Forensic Architecture, a research agency at the University of London who use advanced interdisciplinary techniques and mediums, such as technology, art and design, to investigate state and corporate violence. I absolutely love what Forensic Architecture do, and feel like this is a great example of how design and tech can be used as powerful tools when it comes to social justice and human rights. I'd love to look more into how design can be used to build a better, fairer future.
 
-## 'Message Delivered' 
+!['Foragers' by Dunne and Raby](dunne.jpg)
 
-The entirety of Week 9 of GDE710, 'Message Delivered', really stood out to me. As mentioned in my previous idea, I love sending messages through design, and I feel like art and design are some of the best mediums through which to promote real world change. 
 
-One of my best experiences as a designer/illustrator so far was when my project 'Angel shot' won first place at the Creative Conscience awards 2022. I developed the project as a way to send a message about spiking and women's safety through an alcohol brand that promoted these values. This was a subject I felt really passionate about, and I feel like it shows through the work - something that really motivates me is feeling strongly about a cause or subject, and I always try to do my bit to help causes that I care about 
+I also loved the work of studios like Forensic Architecture, a research agency at the University of London who use advanced interdisciplinary techniques and mediums, such as technology, art and design, to investigate state and corporate violence. 
 
-Friends of the earth, PETA, etc. 
 
-Love snarky juxtaposition - vigilant floral
-Violence against women, anti-sexism, 
-My work was a little gratuitous, how could I improve it? 
+![A project by Forensic Architecture](fa.jpg)
 
-During Week 9, we took a look at the concept of 'the medium is the message', an idea coined by Marshall McLuhan, which asserts that the medium through which a message is sent is just as important, if not more important, than the message itself. We looked at so many great examples of design that sends a message not just through it's content, but through the medium itself, but one that stood out to me recently was the BBC's 'Vote Stamp' campaign. In 2024, the UK government announced that photo ID was now necessary to vote during an election, however Electoral Commission research found that 33% of young people still forgot their ID or were totally unaware of the change. 
 
-To tackle this, the BBC implemented a campaign in which, after viewing and accepting ID, bouncers at UK bars and clubs would stamp the wrists of young people after granting access with a stamp that said 'You need ID to vote, too". with the creative director of BBC Creative saying "If they didn't spot it that night, they would see it on their arm the next morning." I don't know quite how you wouldn't spot it, but 
+I absolutely love what Forensic Architecture do, and feel like this is a great example of how design and tech can be used as powerful tools when it comes to social justice and human rights. Maybe I could use this project to look more into how design can be used to build a better, fairer future.
 
-Another great example of medium as message I came across recently 
+### 'Message Delivered' 
 
-This project is a great example of medium as message, and how these innovative approaches to sending political and social messages can be hugely effective in the promotion and retention of that message. I'd love to take inspiration from approaches like these in my project, and maybe utilise similar techniques to send messages about causes that matter to me. I'd love to take another look at some of my previous ideas which I now feel were a bit aggressive and refine them, considering how to be tasteful in my approach to these subjects. 
+After looking back through my work for GDE710, the entirety of Week 9, 'Message Delivered', really stood out to me. As mentioned in my previous idea, I love sending messages through design, and I feel like art and design are some of the best mediums through which to promote real world change. 
 
-Looked at practises in our area - literally no web development 
-Building a web dev portfolio? 
+One of my best experiences as a designer/illustrator so far was when my project 'Angel Shot' won first place at the Creative Conscience awards 2022. I developed the project as a way to send a message about anti-spiking and women's safety by developing safety conscious packaging for an alcohol brand that promoted these values. This was my first time developing a project where the medium was the message, and I was satisfied with the outcome - using the medium of alcohol packaging to get the message across was a really fun way to promote the cause, and something that really motivates me as a designer is doing my bit to help causes or subjects that I feel strongly about.
 
-Thoughts on ideas - experimentation and AI brainrot
+
+
+
+During Week 9, we took a look at the concept of *'the medium is the message'*, an idea coined by Marshall McLuhan, which asserts that the medium through which a message is sent is just as important, if not more important, than the message itself. 
+
+We looked at so many great examples of design that sends a message not just through it's content, but through the medium itself in GDE710, but one that has stood out to me recently was the BBC's 'Vote Stamp' campaign. 
+
+![A photo of someone's stamped wrist from the 'Vote Stamp' campaign](bbc.jpeg)
+
+
+In 2024, the UK government announced that photo ID was now necessary to vote during an election, however Electoral Commission research found that 33% of young people still forgot their ID or were totally unaware of the change. 
+
+To tackle this, the BBC implemented a campaign in which, after viewing and accepting ID, bouncers at UK bars and clubs would stamp the wrists of young people after granting access with a stamp that said 'You need ID to vote, too". 
+
+The creative director of BBC Creative was quoted as saying:
+
+ >*"If they didn't spot it that night, they would see it on their arm the next morning."*  
+
+This project is a great example of medium as message, and how these innovative approaches to sending political and social messages can be hugely effective in the promotion and retention of that message. 
+
+I'd love to take inspiration from creative approaches like these in my project, and maybe utilise similar techniques to send messages about causes that matter to me. I'd love to possibly take another look at some of my previous ideas from GDE710 which I now feel were a bit aggressive, such as the women's safety posters, and refine them with a mor etasteful approach, which is something that is really important when tackling difficult subjects. 
+
 
 Feminism and identity - noticing the ignored, Vivian meiar 
 
-‘Life more abundant’ - capturing the past
-
-Anti-establishment, off the grid living, dropping out of society - the woods
-
 Skill development (week 8) - illustration, staying a student, would love to revisit the hideous flowmap app and re-build it with my new web development/programming skills. Would be a great way to continue to build my skills 
 
-
-![An old Penguin book cover design](week-01.jpg)
 
 Your research task this week is to assess the field of communication within which you want to develop your self initiated project.
 ​
@@ -289,7 +301,7 @@ Who are the designers, artists and makers that are critical to this area of desi
 https://www.itsnicethat.com/articles/icbq-issue-five-publication-190121 
 https://www.itsnicethat.com/articles/amy-moss-illustration-270421 
 
-### Research Task
+## Research Task
 
 ![Sketchbook page](/images/week-01/sketch-1.jpg)
 
