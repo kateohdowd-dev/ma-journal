@@ -313,10 +313,254 @@ This project is a great example of medium as message, and how these innovative a
 
 I'd love to take inspiration from creative approaches like these in my project, and maybe utilise similar techniques to send messages about causes that matter to me. I'd love to possibly take another look at some of my previous ideas from GDE710 which I now feel were a bit aggressive, such as the women's safety posters, and refine them with a mor etasteful approach, which is something that is really important when tackling difficult subjects. 
 
-Feminism and identity - noticing the ignored, Vivian meiar 
+## Final Ideas and Brief
 
-Skill development (week 8) - illustration, staying a student, would love to revisit the hideous flowmap app and re-build it with my new web development/programming skills. Would be a great way to continue to build my skills 
+Our aim for this week was to turn our ideas into a final, comprehensive brief. I honestly found it really difficult to settle on one area to focus on, but two ideas were really standing out to me - analogue mediums in the digital age and embracing imperfection and authenticity.
 
+To help myself pinpoint a final concept, I considered the criteria for this project, how it needs to be based on our individual interests and passions, taking risks and considering how our work might fit into a wider context. I feel like this project could be such a powerful way to get back into making work and considering what motivates me as a designer, so I want to take a very personal approach. 
+
+I considered the two concepts of analogue mediums and embracing imperfection, and felt like they could merge Maybe I could do something interesting using mixed media and analogue mediums that would attempt to tackle the toxic messaging towards young women on social media? Maybe an animation? Using messy analogue mediums to send that message would be a great use of medium as message, and bring in a storytelling element, and I felt like there was something really exciting there.
+
+Aside from this, toxic perfectionism is something that I've been struggling with recently, both personally and creatively, so I feel like it's a personally poignant subject. Recently, I've been feeling really defeated and unmotivated when it comes to creative work, and I think that this is because of all the perfect, polished work that I've beeing seeing online. Not only do I tend to compare myself to others, which causes me to feel unmotivated and too scared to even start making work, but I often reject my own unique creative identity in favour of 'fitting the mold' and making commercially successful or 'popular' work that fits into the 'clean' and 'professional' digital landscape. Using analogue mediums in a project like this would force me to be free, messy and reject perfectionism, and would be a great way for me to break back into making creative work, as well as a therapeutic way to send a message about how imperfection is what makes us human. 
+
+For this reason, building some briefs based on this intersection - imperfection, identity, and analogue storytelling as resistance to digital perfectionism, seemed like the right way to go.
+
+Before I started to develop my brief though, I took a look at this week's resources
+
+
+
+Using this research, I decided to start coming up with a comprehensive brief. 
+
+Here's where things got a little out of hand. 
+
+The topic of human imperfection vs digital perfection gave me so many ideas that I ended up coming up with 5 briefs, because I love to make things as hard for myself as possible. I wrote each one up as a polished final brief.
+
+### 💡 Concept Direction 1: “Unfiltered” 
+
+**Core idea:** 
+
+Reclaiming imperfection in a polished world. A mixed-media campaign that celebrates imperfection and authenticity, challenging the perfectionism perpetuated by social media and AI.
+
+**Aim:**
+
+ To explore how analogue imperfection (texture, mess, unpredictability) can visually and emotionally communicate the value of being real and human in a digital culture obsessed with perfection.
+
+**Mediums:**
+
+ Collage, scanned paint textures, hand lettering, risograph or photocopy prints, stop-motion animation, or short experimental video.
+
+**Possible Outcomes:**
+
+- A short hand-animated or stop-motion video piece
+- A series of posters or social graphics that subvert beauty filters and AI “perfect” aesthetics
+- A zine titled Unfiltered that combines personal reflection, analogue experiments, and found social media imagery
+
+
+**Audience:**
+
+Young women / creatives navigating self-image pressures online
+
+**Wider context:**
+
+Links to current conversations about authenticity, “deinfluencing,” anti-filter movements, and AI-driven beauty standards
+
+**Potential development challenge:**
+
+How can design look deliberately imperfect yet still communicate clearly and powerfully?
+
+
+### 💡 Concept Direction 2: “404/Human Error”
+
+**Core idea:**
+
+Designing with mistakes, baased on the concept of human error. Treat mistakes, smudges, and glitches as design tools rather than flaws.
+
+**Aim:**
+
+To investigate the visual language of “human error” — exploring what happens when a designer embraces failure, randomness, and manual process as a creative methodology.
+
+**Mediums:**
+
+Analogue printmaking, photocopy distortion, glitch scanning, painting over digital prints, generative “error” techniques
+
+**Outcome ideas:**
+
+- A digital/print hybrid publication documenting experiments
+- A typographic poster series visualising human vs. machine imperfection
+- A short film/animation that evolves from “machine-perfect” to chaotic and alive
+
+**Audience:**
+
+Design students / creative professionals reflecting on authenticity and automation
+
+**Wider context:**
+
+Questions about authorship and humanity in the age of AI
+
+**Personal challenge:**
+
+Overcoming your own perfectionist tendencies by allowing spontaneity and imperfection in process.
+
+
+### 💡 Concept Direction 3: “Visible” — The Messy Beauty of Mental Health
+
+**Core idea:** 
+
+A visual storytelling project using analogue mixed media to explore the raw, imperfect emotional reality of mental health struggles — embracing visible “cracks” instead of hiding them.
+
+**Aim:**
+
+To visualise internal experiences (anxiety, burnout, overwhelm) through imperfect physical processes like tearing, layering, erasing, and rebuilding.
+
+**Mediums:**
+
+Collage, scanning, layering ink/paint textures, stitched or torn paper, voice-over storytelling, animation
+
+**Outcomes:**
+
+- A short experimental film/animation using voice and mixed media
+- An illustrated zine or poster series
+- An interactive online exhibition (documented via your blog)
+
+**Audience:**
+
+General public — particularly those dealing with self-image and mental health challenges
+
+**Wider context:**
+
+Links to campaigns around mental health awareness and self-acceptance
+
+**Personal challenge:**
+
+Turning something deeply personal into a universal message through visual metaphor and process.
+
+### 💡 Concept Direction 4: “Digital Detox” 
+
+**Core idea:**
+
+Analogue resistance in the digital age - Exploring analogue mediums as resistance to digital homogeneity and rejecting digital perfection as an artist/designer.
+
+**Aim:**
+
+To explore how analogue techniques (printmaking, scanning, physical manipulation) can disrupt or humanise the slick, algorithmic visual language of digital media.
+
+**Mediums:**
+
+Riso, print, paint, scan, glitch, layering with digital manipulation
+
+**Outcomes:**
+
+- Visual identity or campaign for a fictional movement advocating digital detox / creative authenticity
+- Poster or motion series combining digital and physical layers
+- Interactive microsite (if you want to flex web design skills too)
+
+**Audience:**
+
+Digital creatives, designers, students
+
+**Wider context:**
+
+Commentary on AI art, creative authenticity, and digital burnout
+
+**Personal challenge:**
+
+Balancing analogue experimentation with digital execution — showing how imperfection can enhance clarity and impact.
+
+### 💡 Concept Direction 5: “Medium as Message” — Storytelling Through Materiality
+
+**Core idea:**
+
+A narrative told entirely through the medium itself — using material choice, texture, and imperfection as narrative devices.
+
+**Aim:**
+
+To create a short visual story or sequence (poster, book, or video) where the materials become the meaning.
+ 
+**Example idea:**
+
+A story about online perfectionism told through decaying prints, peeling stickers, fading ink, or handwritten confessions that get messier as they go.
+
+**Mediums:**
+
+Photography, collage, stop-motion, typography, sound design
+
+**Outcome:**
+
+- A short film or animation (1–2 minutes)
+- A narrative poster sequence or artist’s book
+
+**Personal challenge:**
+
+Combining conceptual storytelling with strong design craft.
+
+
+At this point, I was really struggling to choose a project to mvoe forward with. In terms of output, direction 4, 'digital detox', excited me the most - I loved the idea of creating a visual identity or campaign for a fictional movement, and I really wanted to bring in some web design to keep growing my web design skills. I also felt like telling a story using analogue mediums through a website or online exhibition could be really interesting. 
+
+In terms of which ideas/themes I felt best connected to, I was totally torn between directions 1, 3 and 4. I was wary of merge these ideas too much, because I wanted to avoid a muddy, chaotic brief, but I fely like maybe it was somehow possible to kind of merge all three of those themes into a kind of broader 'detox' themed project - maybe a campaign that more widely investigated what it means to be a human in the digital age, that touches on issues of mental health, body image and creative authenticity, looking at how AI and social media affect both creatives and the general public, that makes use of analogue mediums to rebel against AI and digital perfection and enhance the message.
+
+Based on this, I developed a final brief for my self initiated project. 
+
+## 🎯 Final Brief - 'Detox'
+
+**Core Idea**
+
+A visual identity and campaign exploring imperfection, authenticity, and creative rebellion in the digital age.
+
+**Rationale**
+
+In an era defined by algorithms, filters, and automation, the human touch has become a radical act. Human After All explores the growing tension between digital perfection and emotional authenticity — investigating how AI, social media, and digital design culture have reshaped the way we see ourselves, our creativity, and each other.
+
+The project challenges the constant pursuit of refinement and control by embracing imperfection, analogue craft, and raw emotion as symbols of resistance. It aims to question what it means to create, express, and exist authentically in a world where our identities and aesthetics are increasingly shaped by machines.
+
+By combining analogue experimentation with digital media, the campaign seeks to reintroduce feeling into visual communication — reminding us that imperfection is not a flaw, but proof of life.
+
+**Objectives**
+
+- Investigate how digital environments (social media, AI tools, online identity) impact human emotion, body image, and creative authenticity.
+
+- Experiment with analogue techniques — collage, photocopy, print, and texture — as tools of creative rebellion and self-expression.
+
+- Develop a cohesive visual identity for a fictional campaign/movement (“Human After All”) that advocates for reconnection, authenticity, and imperfection.
+
+- Integrate digital and analogue media through a web-based or digital exhibition format, using interactivity and storytelling to immerse the viewer.
+
+- Reflect critically on the relationship between imperfection, emotion, and authenticity through the design process and outcomes.
+
+**Deliverables**
+
+- Visual Identity: Logo, colour palette, and typographic system for the Human After All campaign.
+
+- Campaign Materials: Poster series, zine, or print ephemera showcasing key messages and visuals.
+
+- Analogue Experiments: Scanned and digitised textures, collages, and compositions that express human imperfection.
+
+- Digital Exhibition or Microsite: A small, immersive web experience that merges digital and analogue worlds, presenting the campaign’s narrative.
+
+- Short campaign video or motion piece exploring the project’s message in a unique visual medium
+
+**Research Questions**
+
+- How has the pursuit of digital perfection influenced our perception of creativity, beauty, and self-worth?
+
+- In what ways can analogue and handmade processes reintroduce emotion, authenticity, and imperfection into digital design?
+
+- How might graphic design serve as a form of resistance against algorithmic homogenisation and creative conformity?
+
+- What visual or emotional language best communicates the tension between human imperfection and machine precision?
+
+- How can interactivity or digital storytelling amplify the emotional resonance of a campaign about reconnection and authenticity?
+
+**Keywords**
+
+Authenticity · Imperfection · Analogue · Rebellion · AI · Digital Identity · Creative Burnout · Human Connection · Visual Storytelling · Design Ethics
+
+**Tone & Aesthetic**
+
+Raw · Reflective · Honest · Poetic · Handcrafted yet digitally integrated — a visual contrast between glitch and grain, pixel and paper.
+
+
+
+## Research Task
 
 Your research task this week is to assess the field of communication within which you want to develop your self initiated project.
 ​
@@ -332,7 +576,7 @@ Who are the designers, artists and makers that are critical to this area of desi
 https://www.itsnicethat.com/articles/icbq-issue-five-publication-190121 
 https://www.itsnicethat.com/articles/amy-moss-illustration-270421 
 
-## Research Task
+
 
 ![Sketchbook page](/images/week-01/sketch-1.jpg)
 
