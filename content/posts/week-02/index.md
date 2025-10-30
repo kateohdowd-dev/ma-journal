@@ -1,12 +1,12 @@
 ---
-title: "Week 01 — Brief Analysis"
-date: 2025-09-18
+title: "Week 02 — Ideas, Craft and Context"
+date: 2025-09-30
 draft: false
 categories: ["GDE741"]
 modules: ["GDE741"]
 tags: ["week-01", "reflection", "research"]
 summary: "Initial goals and first tasks."
-image: "bbc.jpeg"
+image: 
 ---
 
 I'm really glad to be back on the course and I'm super excited to get started with GDE740 this week - I feel much more focused after taking a break. I also feel like I've learned a lot about myself and my practise 
