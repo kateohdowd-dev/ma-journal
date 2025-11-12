@@ -505,15 +505,27 @@ Based on this, I developed a final brief for my self initiated project.
 
 **Core Idea**
 
-A visual identity and campaign exploring imperfection, authenticity, and creative rebellion in the digital age.
+A mixed-media campaign that celebrates imperfection and authenticity, challenging the perfectionism perpetuated by social media and AI.
+
+**Title:** 
+
+‘Detox’ - plays on the concept of a ‘digital detox’, enhances the message of rejecting and healing from toxic messaging, mediums and concepts. 
+
+**Aim:**
+
+To explore how analogue imperfection (texture, mess, unpredictability) can visually and emotionally communicate the value of being real and human in a digital culture obsessed with perfection. 
 
 **Rationale**
 
-In an era defined by algorithms, filters, and automation, the human touch has become a radical act. Human After All explores the growing tension between digital perfection and emotional authenticity — investigating how AI, social media, and digital design culture have reshaped the way we see ourselves, our creativity, and each other.
+In an era defined by algorithms, filters, and automation, the human touch has become a radical act. Detox explores the growing tension between digital perfection and emotional authenticity — investigating how AI, social media, and digital culture has reshaped the way we see ourselves, our creativity, and each other.
 
-The project challenges the constant pursuit of refinement and control by embracing imperfection, analogue craft, and raw emotion as symbols of resistance. It aims to question what it means to create, express, and exist authentically in a world where our identities and aesthetics are increasingly shaped by machines.
+The project examines how people online, particularly young women, experience issues of insecurity caused by heavily filtered photos, social media 'influencers' and the use of AI models by brands, calling for a more authentic and human output. The use of analogue mediums challenges the constant pursuit of refinement and control by embracing imperfection, analogue craft, and raw emotion as symbols of resistance. It aims to question what it means to create, express, and exist authentically in a world where our identities and aesthetics are increasingly shaped by machines.
 
 By combining analogue experimentation with digital media, the campaign seeks to reintroduce feeling into visual communication — reminding us that imperfection is not a flaw, but proof of life.
+
+**Mediums:**
+
+Collage, scanned paint textures, hand lettering, risograph or photocopy prints, stop-motion animation, or short experimental video. 90% analogue with digital refinement.
 
 **Objectives**
 
@@ -521,23 +533,60 @@ By combining analogue experimentation with digital media, the campaign seeks to 
 
 - Experiment with analogue techniques — collage, photocopy, print, and texture — as tools of creative rebellion and self-expression.
 
-- Develop a cohesive visual identity for a fictional campaign/movement (“Human After All”) that advocates for reconnection, authenticity, and imperfection.
+- Develop a cohesive visual identity for a fictional campaign/movement (“Detox”) that advocates for reconnection, authenticity, and imperfection.
 
 - Integrate digital and analogue media through a web-based or digital exhibition format, using interactivity and storytelling to immerse the viewer.
 
 - Reflect critically on the relationship between imperfection, emotion, and authenticity through the design process and outcomes.
 
+- Reflect critically on the nature of the self-initiated project, considering it's potential to serve as both a personal outlet and a way to connect with others and spark real world change. 
+
 **Deliverables**
-
-- Visual Identity: Logo, colour palette, and typographic system for the Human After All campaign.
-
-- Campaign Materials: Poster series, zine, or print ephemera showcasing key messages and visuals.
 
 - Analogue Experiments: Scanned and digitised textures, collages, and compositions that express human imperfection.
 
+- Short campaign video or motion piece exploring the project’s message in a unique visual medium
+
+- Campaign Materials: A series of posters or social graphics that subvert beauty filters and AI “perfect” aesthetics
+
+- A digital zine that combines personal reflection, analogue experiments, and found social media imagery
+
+- Visual identity: (Logo, colour palette, and typographic system) for the 'Detox' campaign. a movement advocating digital detox and creative and personal authenticity
+
 - Digital Exhibition or Microsite: A small, immersive web experience that merges digital and analogue worlds, presenting the campaign’s narrative.
 
-- Short campaign video or motion piece exploring the project’s message in a unique visual medium
+**Audience:**
+
+Young women/creatives navigating self-image pressures online.
+
+**Wider context:**
+
+Links to current conversations about authenticity, “de-influencing,” anti-filter movements, and AI-driven beauty standards, while traditional mediums push back against the current insurgence of slick, digitally focused, AI generated art and design. 
+
+**Potential development challenge:**
+
+How can design look deliberately imperfect yet still communicate clearly and powerfully?
+
+**Key themes:** 
+
+- Being 'unapologetically real.'
+- Digital burnout, mental health.
+- Overstimulation and the need for rest from constant digital exposure
+- Body image and self-perception
+- The distortion of self and beauty through filters, AI, and curation
+- Authentic creativity vs AI
+- The loss of creative individuality in the algorithmic age, and analogue as resistance
+
+**Tone:** 
+
+Reflective, rebellious, honest, and slightly melancholic. A call to slow down and feel again. 
+
+**Aesthetic**
+
+Raw, Reflective, Honest, Poetic, Handcrafted yet digitally integrated — a visual contrast between digital and analogue.
+**Purpose:** 
+
+To highlight how AI and digital systems distort our sense of self, beauty, and creativity — and to celebrate imperfection and analogue craft as a way back to authenticity.
 
 **Research Questions**
 
@@ -555,23 +604,242 @@ By combining analogue experimentation with digital media, the campaign seeks to 
 
 Authenticity · Imperfection · Analogue · Rebellion · AI · Digital Identity · Creative Burnout · Human Connection · Visual Storytelling · Design Ethics
 
-**Tone & Aesthetic**
+**How it fits the brief:**
 
-Raw · Reflective · Honest · Poetic · Handcrafted yet digitally integrated — a visual contrast between glitch and grain, pixel and paper.
+- It fits the brief’s focus on passion and self-exploration.
+- It naturally invites research and experimentation across analogue and digital media.
+- It connects to real-world issues in design and culture (AI, social media, mental health).
+- It’s flexible enough to scale depending on time and desired output
+- Personally, I feel that it ties into my overall creative identity and my current ongoing exploration of authenticity and imperfection.
 
 
 ## Research Task
 
-Your research task this week is to assess the field of communication within which you want to develop your self initiated project.
-​
-design and mental health 
-packaging design
-brand design
-web design possibly and social media marketing 
-looking at some of the examples last year
-people who use social media to spin narratives and create engaging experiences 
-​
-Who are the designers, artists and makers that are critical to this area of design? How might their work inform your own creative direction?
+Our research task this week is to assess the field of communication within which we want to develop our self initiated project. We were asked to consider:
+
+*"Who are the designers, artists and makers that are critical to this area of design? How might their work inform your own creative direction?"*
+
+I'm really excited to get started with the 'Detox' project - I feel like it not only has the potential to be really visually interesting, but I'm hoping that it will be quite cathartic for me personally as a designer, as I'm feeling so burnt out by digital-heavy mediums the and expectations of slick perfection that are so prevalant in the design field right now, particularly when it comes to social media. 
+
+**Defining my Project's Field of Communication**
+
+I started this week's research task by considering and trying to define the the field of communication for Detox - Detox will be an experimental visual communication exploring imperfection, authenticity, and tactility through analogue processes as critique of digital perfection and algorithmic aesthetics. Therefore, my project works within visual communication design, specifically focused on anti-perfectionism and analogue resistance in the digital age.
+
+It connects to:
+
+- Graphic design & visual identity
+
+- Experimental animation / stop-motion
+
+- Zine & countercultural publishing
+
+- Post-digital design (where digital + analogue intersect)
+
+- Contemporary social commentary design (mental health, anti-AI, authenticity)
+
+So my field for this project can be summarised as: 
+
+*Post-Digital Communication Design which embraces imperfection as an aesthetic and ethical stance.*
+
+**Assessing the Field**
+
+Recently, analogue imperfection functions as a counter narrative to AI-driven and hyper-digital design in a way that is more prevalent and necessary than ever, and many contemporary designers and artists and rejecting digital mediums in favour of analogue techniques. In Reinventing Print: Technology and Craft in Typography (2018), David Jury investigates the history of printed media. He considers how digital media was expected to, and in a sense did, cause the downfall of print mediums, but he argues that this replacement ironically added more value and a sense of soul to printed media, strengthening the value of physical books:
+
+>"An object to be touched, held, opened, and which later required a place on a table or a shelf - all had suddenly become something to savour. The making of this object, even a modest paperback, embodied sufficient largesse to bestow a warmth that the digital screen can not achieve. And it is the making in which craft and creative endeavour - those very elements that add that vital generosity of spirit - lie" *David Jury,2018*
+
+This is something that I think applies to all artforms and mediums. Although it's true that digital mediums take a lot of craftsmanship and skill, there's something charming and almost intimate about something that's been made by hand, and many artists consider the process of making to be more important than the outcome itself.  
+
+I really want to take a deep look into this field, and get lost in these themes, ideas and mediums from both a modern and historical perspective, as this will give me a strong starting point when it comes to working on project development next week. I did quite a bit of research into the field of communication for this project. I managed to pinpoint four lenses through which I could explore these themes, and found many artists, thinkers, makers and movements that have been critical to these areas of design. 
+
+**Historical and Conceptual Roots - Imperfection as Protest**
+
+![A page from the'Guilty of What' fanzine from 1982 ](80.jpg)
+
+The analogue-resistance mindset really began with movements like Dada, and the punk zines of the 1970s-80s, Fluxus and mail art were movements that used accessible analogue mediums to famously reject commercial polish.
+
+I've always loved the rough, analogue aesthetic of the punk subculture, and the message and aesthetics of the punk movement is probably one of my biggest creative influences. The punk subculture came about in 1970s Britain, as a form of youth rebellion. Nihilistic disruptors were influenced by Dadaist collage, the 1960s underground press and counter-culture protest graphics from years prior. Their use of analogue techniques and their love of messy, disjointed imperfection sent the message 'anyone can do it'.
+
+>"Fast, messy, unpolished—whether it was an album cover, a promotional poster or a DIY zine, these tenets held steadfast." (*Callie Budrick, 2019)*
+
+Punk culture created plenty of iconic design, art and music, but one of the best known punk artists and designers was Jamie Reid. Reid is a visual artist best known for the Sex Pistols record cover. He popularlised the rough collage, ransom-letter typography and DIY photocopy aesthetic that the punk movement is now best known for, and his work symbolised anti-establishment rebellion.
+
+![Liberty (Red) by Jamie Reid](jamie.webp) ![A piece for the Sex Pistols by Jamie Reid](jamie-2.png)
+
+Reid's work and the punk aesthetic as a whole shows how roughness itself can be used as a communication tool - the roughness of the mark making and irratic, imperfect torn paper sends a strong counter-cultural message. The technique  of sending a message through the use of materials and mark making is one that would be perfect for my project.
+
+Another major figure in the history of analogue communication and expressive printmaking is Sister Corita Kent. An artist, educator, and Catholic nun, Kent worked primarily during the 1960s and 70s, creating vibrant, hand-made screen prints that combined bold typography, found imagery, and social commentary. Her work blurred the boundaries between art, protest, and design, echoing the Dadaist and Pop traditions of using mass-media imagery while maintaining a distinctly human, handmade energy.
+
+![Work by Sister Corita Kent](corita.jpeg)
+
+Kent’s process was deeply analogue and deliberately imperfect — her screen prints often showed overlapping layers, uneven registration, and visible brushstrokes. Rather than aiming for polish, she celebrated imperfection as a mark of authenticity and emotion. Her use of everyday language, slogans, and advertising text became a tool for hope and activism, reclaiming the visual language of consumerism for messages of love, peace, and social justice.
+
+What makes Kent especially relevant to my project is her belief that art could be both beautiful and political — a medium for empathy, joy, and moral resistance. Like Reid’s punk graphics, Kent’s work used materiality and imperfection as a form of protest, but where punk was angry and disruptive, Kent’s was hopeful and transformative. Her emphasis on sincerity, tactility, and emotional connection directly aligns with the themes of Detox — using analogue imperfection as a way to counter the cold perfection of digital culture, and to reconnect with a more human, heartfelt way of communicating.
+
+![Francis Picabia’s “Tableau Rastadada” (1920)](vogel.webp)
+
+Before punk or pop however, the roots of analogue resistance and collage-as-critique can be traced back to John Heartfield and the Dada movement of the early 20th century. Emerging in Zurich during World War I, Dada was a radical rejection of reason, nationalism, and traditional aesthetics — artists like Heartfield, Hannah Höch, and Raoul Hausmann used collage and photomontage to protest the absurdity and violence of their time.
+
+Heartfield in particular pioneered the use of photomontage as political weaponry. He cut, tore, and rearranged images from newspapers and propaganda posters to create biting, satirical compositions that exposed the hypocrisy of governments, war profiteers, and the rise of fascism. His technique was intentionally rough and confrontational — by literally dissecting mass-media images, he revealed how truth could be manipulated, and how art could reclaim that visual power.
+
+![Detail from 'Cut with the Dada Kitchen Knife through the Last Weimar Beer-Belly Cultural Epoch in Germany' by Hannah Höch, 1919](hoch.png)
+
+This idea of recontextualising found imagery to critique societal norms directly informs my project. Just as Heartfield used physical collage to challenge propaganda, Detox explores how analogue imperfection can challenge the filtered, AI-generated ideals saturating digital culture. Both use handmade imperfection and material process to reclaim honesty from a system of artificial polish.
+
+![Takehisa Kosugi, Ben Vautier, George Brecht in a performance of Anima 1, Attache de Ben, and Solo for Violin, performed during Fully Guaranteed 12 Fluxus Concerts, New York, May 23, 1964.](download.webp)
+
+In the 1960s, the Fluxus movement continued Dada’s rebellious spirit, but replaced its anger with playfulness, participation, and everyday imperfection. Artists like Yoko Ono, Nam June Paik, and George Maciunas blurred the boundaries between art, life, and audience. Fluxus emphasised process over product — events, happenings, and instructions that anyone could perform, often using cheap materials or simple gestures to provoke thought.
+
+!['Untitled' by Nam June Paik (1993)](paik.jpg)
+
+Yoko Ono’s Instruction Pieces (1961–64), such as Cut Piece and Grapefruit, invited viewers to complete the artwork through their own actions, turning imperfection and vulnerability into acts of collective expression. Nam June Paik similarly worked with early video and television, deliberately distorting electronic signals to create messy, unpredictable visuals — a direct challenge to the notion that technology should produce clean, flawless images.
+
+Fluxus transformed imperfection into a kind of democratic language: art as participation, not perfection. This mindset resonates deeply with my project, which also reclaims imperfection as a form of human connection in a hyper-digital age. By embracing glitch, texture, and unpredictability, I'm aiming to be as successful as Fluxus in resisting the sterile control of technological systems, celebrating instead the beauty of the handmade, the emotional, and the unfinished.
+
+![Ray Gun cover by David Carson](raygun.jpg)
+
+If Heartfield and Reid represented rebellion through analogue materiality, David Carson, one of my personal favourite graphic designers of all time, brought that same energy into the digital era. Known for his work on Ray Gun magazine in the 1990s, Carson rejected the slick, grid-based logic of modernist graphic design in favour of expressive, emotional chaos. His distorted type, overlapping images, and refusal to prioritise legibility over feeling redefined what communication design could be.
+
+![Ray Gun article in 'Dingbats' font by David Carson](dingbats.jpg)
+
+Carson’s approach — “don’t mistake legibility for communication” — embodies the anti-perfection ethos at the heart of my project. He showed that emotion, instinct, and imperfection can speak more powerfully than order and control. His work straddled analogue and digital tools, keeping the texture, unpredictability, and rawness of analogue media alive within the emerging world of computer-based design.
+
+Carson’s legacy sits at the crossroads of rebellion and refinement: his work is messy, but it’s intentionally messy. This idea of deliberate imperfection as an aesthetic and emotional choice is central to my project — using texture, collage, and dissonance to evoke honesty and imperfection in an era of algorithmic precision.
+
+![A cover for Ray Gun magazine by David Carson](gun.jpg)
+
+Across Dada, Punk, Fluxus, and postmodern design, a shared lineage emerges — one that values imperfection as resistance. From Heartfield’s photomontages to Corita Kent’s joyful screen prints, Jamie Reid’s punk collages, and David Carson’s digital deconstruction, each artist redefined communication by rejecting polish in favour of authenticity.
+
+Their work collectively shows how design’s power often lies not in control, but in release — in using texture, noise, and accident as tools for truth-telling. What began as political defiance in Dada evolved into spiritual rebellion in Kent, cultural revolt in Punk, and emotional honesty in Carson’s digital experiments.
+
+After investigating the field of communication from a historical standpoint, I'm hoping that my project will sit within this lineage as a contemporary response to today’s perfection-obsessed digital culture. Where AI smooths, optimises, and automates, my project seeks to remind viewers that imperfection is not failure but evidence of humanity. It reclaims the analogue as both aesthetic and ethical resistance — a modern continuation of this century-long dialogue between mess and meaning.
+
+**Post-Digital + Analogue Resistance Designers**
+
+➤ Anthony Burrill — “Work Hard & Be Nice to People” posters
+
+Letterpress, grainy textures, positive social messages.
+
+Influence: simple typography + tactile craft = emotional resonance.
+
+➤ Kate Moross — Hand-drawn typography, imperfections, vibrant DIY style.
+
+Blurs the line between digital and handmade.
+
+Influence: confident imperfection that feels honest and joyful.
+
+➤ Hato Press / Studio Hato — Risograph press + design studio (London).
+
+Celebrates the process of making, visible misregistrations, texture.
+
+Influence: a living example of analogue design thriving in digital culture.
+
+➤ Johanna Goodman — Digital collage artist blending analogue textures and painted figures.
+
+Influence: “post-digital collage” approach — scanned textures and mixed media feel like handmade digital craft.
+
+➤ Daniel Eatock — Conceptual designer challenging perfection and authorship (e.g., his “Mistake Series”).
+
+Influence: embraces failure and chance as design tools.
+
+➤ Zach Lieberman — Digital artist exploring imperfection through code.
+
+Influence: a counterexample — uses digital tools to simulate organic imperfection (you could reflect on this in contrast to your analogue-first approach).
+
+3. Contemporary Feminist and Authenticity-Driven Designers
+
+➤ Jessica Walsh / &Walsh Studio — Especially her Let’s Talk About Mental Health campaigns.
+
+Merges polished design with raw personal honesty.
+
+Influence: emotional vulnerability can coexist with bold design language.
+
+➤ Stefanie Posavec — Data designer working by hand (e.g., Dear Data project).
+
+Hand-drawn visualisations of personal experience.
+
+Influence: intimate, tactile, analogue interpretation of digital life.
+
+➤ Chloe Sheppard — Photographer exploring body image and authenticity.
+
+Soft focus, analogue film, feminist self-portraiture.
+
+Influence: visual tone for Detox — melancholic yet empowering.
+
+➤ Alice Skinner — Illustrator focusing on social commentary and feminist themes with rough, collage-like textures.
+
+Influence: combines digital + raw handmade feel with activist undertones.
+
+➤ Hattie Stewart — Playful analogue doodling over glossy fashion images.
+
+Influence: literal “defacement” of perfection — directly parallels your concept.
+
+4. Zine & Indie Publishing as Mediums of Resistance
+
+➤ Printed Matter (NYC) — hub of art publishing and zine culture.
+➤ Rough Trade Books (UK) — DIY feel meets cultural commentary.
+➤ Occasional Papers — publishers focusing on design history and counterculture.
+➤ Girls Who Zine / Polyester Zine / Sister Magazine — feminist zine collectives exploring realness, body image, and media culture.
+
+Influence: how zines can become vessels for self-expression and critique.
+
+5. Cross-Media Experimental Filmmakers (for your Stop-Motion/Video)
+
+➤ Emma Calder — Animated collage films.
+➤ The Brothers Quay / Jan Švankmajer — stop-motion exploring texture and imperfection.
+➤ Kirsten Lepore — modern stop-motion exploring vulnerability, often using handmade materials.
+
+Influence: imperfection in movement = emotional authenticity.
+
+💬 STEP 4 — Personal Context & Reflection (for the final paragraph)
+
+This section is about you. You’ll want to link your personal values and interests to the field you’ve researched.
+
+Here’s a structure and example draft you can adapt:
+
+Structure:
+
+What draws you personally to this theme.
+
+How your interests/identity intersect with it.
+
+How it informs your creative direction.
+
+Example Draft:
+
+I’m particularly drawn to this field because it reflects my own creative tension between digital polish and the need for authenticity. As a designer and illustrator working in a post-digital context, I often feel alienated by the perfection and artificiality of contemporary visual culture — especially in the era of AI-generated imagery.
+
+My background in illustration and interest in mental health awareness have made me sensitive to how digital environments affect self-image and creativity. I’m interested in how analogue imperfection — visible brushstrokes, tears, and textures — can reintroduce vulnerability and sincerity into design.
+
+Artists like Anthony Burrill, Kate Moross, and Hato Press show that tactility and humanity still have power in a digital world. This project will allow me to explore imperfection as both an aesthetic and an act of resistance, creating communication that feels more human, more honest, and more alive.
+
+🧩 STEP 5 — How to Present or Write It (Suggested Outline for Submission)
+
+You can structure your research notes or visual presentation like this:
+
+Page 1 – Title & Introduction
+
+Field of Communication: Post-Digital Communication Design: Analogue Resistance and Authenticity in the Age of Perfection
+Brief paragraph introducing your self-initiated project “Detox”.
+
+Page 2 – Field Assessment
+
+Describe how analogue imperfection functions as a counter-narrative to AI-driven and hyper-digital design.
+
+Page 3 – Historical Roots
+
+Images + notes on Dada, Punk Zines, Fluxus, Sister Corita Kent.
+
+Page 4 – Contemporary Designers
+
+Images + short blurbs (Burrill, Moross, Hato Press, Eatock, Posavec, &Walsh).
+
+Page 5 – Feminist/Authenticity Voices
+
+Visual examples from Hattie Stewart, Chloe Sheppard, Alice Skinner, Polyester Zine.
+
+Page 6 – Personal Connection & Takeaways
+
+Write your reflection paragraph (from above). Include 2–3 sentences about how this will guide your project visually and conceptually.
 
 https://www.itsnicethat.com/articles/icbq-issue-five-publication-190121 
 https://www.itsnicethat.com/articles/amy-moss-illustration-270421 
