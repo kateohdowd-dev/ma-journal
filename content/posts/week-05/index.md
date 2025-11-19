@@ -79,6 +79,14 @@ They're also not always entirely online based - 'Games of Nonchalance' was a rea
 
 ![A sticker from the 'Games of Nonchalance' ARG](gon.webp)
 
+Because of the medium's inherent secrecy and intrugie, many ARGs are horror based, or bring in elements of horror to build suspense and a surge of adrenaline for the players. 
+
+ARGs and Unfiction have become so prevalent and popular now that platforms like Tiktok, Instagram and Youtube are absolutely filled with them, in the form of mysterious, often eerie accounts posting supposedly real and candid content full of hidden secrets. 
+
+![The Tiktok profile 'evelynhearts.tv' recently went viral for starting an ARG](arg.png)
+
+The internet's love for ARGs got so intense that when Youtuber Marina Joyce began to struggle with her mental health in 2016, she began posting content that her viewers deemed 'unusual', and many viewers suspected that she was trying to start an ARG and began scouring her videos for clues. 
+
 One of my all time favourite ARGs is Nine Inch Nails' 'Year Zero' ARG, one of the most ambitious and influential unfiction projects ever created by a music artist. 
 
 Designed to accompany Nine Inch Nails’ 2007 concept album 'Year Zero', the ARG unfolded as a dystopian treasure hunt across the real world and the internet. It began when fans discovered a hidden URL printed on the back of a NIN tour T-shirt — a tiny clue that opened the door to a sprawling network of cryptic websites, propaganda materials, and in-universe government documents.
@@ -101,23 +109,25 @@ Across dozens of interconnected websites, players decoded government memos, doss
 
 ![A Nine Inch Nails tour shirt, which contains a hidden message - highlighted letters spelled out 'I AM TRYING TO BELIEVE', leading users to find iamtryingtobelieve.com](shirt.jpg)
 
-The project drip-fed information over months, deliberately blurring the line between fandom, activism, and storytelling. What made Year Zero groundbreaking was how it used the mechanics of discovery — found objects, hacked websites, hidden numbers, audio clues — to make fans feel like co-investigators in a living, breathing dystopia. Instead of simply promoting the album, it extended the album’s world-building into a participatory, cross-media narrative that felt secretive, political, and deeply immersive. It remains a landmark example of how artists can use ARG structures to create cultural worlds that exist far beyond traditional media.
+The project drip-fed information over months, deliberately blurring the line between fandom, activism, and storytelling. What made Year Zero groundbreaking was how it used the mechanics of discovery - found objects, hacked websites, hidden numbers, and audio clues, to make fans feel like co-investigators in a living, breathing dystopia. 
 
-Just like Year Zero, many ARGs are horror based, and bring in elements of horror to build suspense, intrigue and a surge of adrenaline for the players.ARGs and Unfiction have become so prevalent and popular now that platforms like Tiktok, Instagram and Youtube are absolutely filled with them - mysterious, often eerie accounts posting supposedly real and candid content full of hidden secrets. The internet's love for ARGs got so intense that when Youtuber Marina Joyce began to struggle with her mental health in, posting content that her viewers deemed 'unusual' and speaking in an odd cadance, many viewers suspected that she was trying to start an ARG and began scouring her videos for clues. 
+Instead of simply promoting the album, Year Zero extended the album's world-building into a participatory, cross-media narrative that felt secretive, political, and deeply immersive. It remains a landmark example of how artists can use ARG structures to create cultural worlds that exist far beyond traditional media.
 
-An inspired by  what interests you? 
+This week's webinar got me thinking about how much potential ARGs have when it comes to marketing and storytelling. If I had to pick one thing from the current 'cultural zeitgeist' that I'd I'd love to integrate into this project, I think the concept of ARG or unfiction could be a really effective medium, especially if I chose a thematically disruptive intervention. 
 
-based on this, made a list of my interests and skills:
+After this week's webinar, I wanted to start narrowing down the direction I'd like to take for this project. I made a list of  current interests and skills I have that I think it could be interesting to explore here, and I narrowed that list down to:
 
-storytelling,
-web,
-illustration
+- Storytelling
+- Web (UI/UX, coding, programming)
+- Illustration
 
-My cultural interests: 
+I also considered my current cultural interests: 
 
-'unfiction' and ARGs
-Graphic novels 
-webcomics 
+- 'Unfiction' and ARGs
+- Graphic novels 
+- Webcomics 
+
+This gave me a fairly solid foundation to start considering the direction I'd like to take with this project. My next step this week will be to take a massive deep dive into the gallery's collection, to start to uncover a theme that I'd like to explore. 
 
 ## Research Task
 
