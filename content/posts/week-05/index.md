@@ -5,7 +5,7 @@ draft: false
 categories: ["GDE741"]
 modules: ["GDE741"]
 tags: ["week-05", "reflection", "research",]
-summary: "Reflections and project development."
+summary: "Reflections and project development"
 image: 
 weight: 5
 ---
@@ -99,7 +99,7 @@ Nine Inch Nails leaned right into the horror potential of ARGs - one hidden phon
 
 <figure class="video-figure">
 <video controls width="100%">
-  <source src="/videos/216-333-1810...wtf !!.mp4" type="video/mp4">
+  <source src="/videos/216.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 <figcaption>A fictional 'wiretapped' phone call from Nine Inch Nail's 'Year Zero' ARG</figcaption>
