@@ -69,34 +69,468 @@ I found a really great book during my research this week that touched on the imp
 I think that this really sums up my main take away from this week's lecture - it's okay for idea development, research and experimentation to be messy and non-linear, but you should also make the most of the many methodologies and processes that can keep you on track and help your project development phase to run smoothly, which is especially important when working in a team. To start my research this week, I'd really like to go back to my notes for Week 5 of GDE710, and investigate some of these methods and processes.
 
 
+## Research and Development Methodologies
+
+This week, we're focusing on the research and development phase of our self-initiated project. It's actually been a good while since I developed a project properly, and, as mentioned by Offshore Studio in this week's lecture, I feel like the ability to really dive deep into research and development is something that can be missed in commercial projects or projects for clients where you're tight for time, so I'm excited to dust of my research skills and really get stuck in to building a solid foundation for this project.
+
+It was suggested this week that we looking back at our work for GDE711, specifically our work for week 7, 'Research and Theory', where we investigated research methodologies that are used frequently by professional artists, designers and makers. Research can be quite an overwhelming concept - it's difficult to know where to start and what to look for. During GDE711, I took a look at a number of research techniques nad methodologies that have helped to narrow this down when working on projects like mine.
+
+Research into research techniques
+read the resources, gather quotes
+academic thinking 
+
+With some initial research into the concept of research out of the way, I was able to start considering which techniques and methodologies would suit my project. 
+
+My project theme spans psychology, design theory, visual culture, analogue craft, AI critique and feminism, so I came to the conclusion that I'll benefit from using a mixed-method research approach. Based on this, I conducted some further research, and gathered some relevant methodologies that I could apply to this project.
+
+## Defining my research direction
+
+Revisit your research questions (you already have great ones!).
 
 
+Write 3–5 sub-questions for each (What does authenticity look like? What does imperfection feel like?).
+
+
+Set up a Notion or folder structure for:
+
+
+contextual research
+
+
+visual references
+
+
+primary research
+
+
+experiments
+
+
+reflective notes
+
+### Contextual Research (Theoretical/Cultural Research)
+
+Contextual + thematic research:
+
+Look into:
+authenticity in digital culture
+
+
+AI aesthetics
+
+
+psychology of filters
+
+
+analogue craft revival
+
+
+anti-perfection movements
+
+
+Write down 3–5 key insights per article, book, or video.
+
+Contextual research involves exploring the wider cultural, social, psychological and historical factors that shape a design problem. Rather than looking at visuals alone, contextual research examines the ideas, behaviours and systems that influence how audiences think and feel. 
+
+This kind of research is widely used by design professionals because it adds depth and relevance to creative work - it ensures that design decisions are informed, intentional and responsive to real-world issues, rather than being based only on instinct or aesthetics. By understanding the context surrounding my project's theme, I'll be able to identify meaningful insights, uncover underlying tensions, and create solutions that resonate on an emotional and cultural level. It's essential, as it will give my project meaning and rationale.
+
+For this project, contextual research is particularly valuable, as Detox deals with complex topics such as digital perfectionism, authenticity, body image, and the impact of AI. Investigating the cultural history of imperfection, the psychology of filters, and the social pressures shaping online identity will help me to establish a strong conceptual foundation for the project's visual direction, ensuring the final campaign is not only visually compelling but also socially aware, empathetic and grounded in contemporary discourse.
+
+I feel like it's really important to ground my project in established psychological and social research, so start my contextual research, I took a look at some online articles which discuss the psychology of filters, authenticiy and identity online, as well as some academic papers which discuss the harmful effects of exposure to online concepts of 'perfection' on young people today. 
+
+Within this project, something that's really relevant and important for me to understand is why people filter themselves, and how that impacts self-perception and authenticity. Personally, I use Instagram filters a lot, and I wouldn't dare to go live or post a photo without editing it first. Just in the same way that wouldn't leave the house these days without makeup. I feel like for me, low self esteem abdolutely plays a role, but it's also a lot to do with perfectionism - I feel like beauty standards for young women are so high these days, that there's a certain social stugma that comes with not adhering to that. 
+
+Regardless of my personal thoughts and feelings on the topic, I needed to look into the wider phsycology of why and how social media has perpetuated the need for constant perfection. Ifound a really fascinating and recent article by Calogero Lo Destro from Frontiers in Psychology titled: *Unraveling the impact of self-esteem on the utilization of Instagram filters: the mediating role of fear of negative evaluation.* In this article, Lo Destro conducts a study which shows that people with lower self-esteem are more likely to use Instagram beautification filters, and this behavior is mediated by fear of being judged. 
+
+This article was a really pivotal point in my contextual research, as it supports my argument that digital perfection (via filters or curated identities) causes real psychological harm. Also, Lo Destro's quantitative survey into self-esteem, FOMO and social comparison is something that I could and would like to take inspiration from further down the line this week, as I'd love to conduct my own primary, survey-based research. When I come to do my own survey or interviews, I could base some of my questions on the findings from these studies 
+
+Another article, "The Online Authenticity Paradox: What Being “Authentic” on Social Media Means, and Barriers to Achieving It" by Oliver L. Haimson, Tianxio Liu, Ben Zefeng Zhang and Shanley Corvite, students at the University of Michigan, gave some really fascinating insights into the concept of online 'authenticity'. Through interviews, this article explores how people define “authenticity” online. It shows that many feel unable to present a fully authentic self because of the pressures to curate.  
+
+This article's insights, particularly the interview notes, was extremely useful for and relevant to my project's reflection on realness vs a polished, idealised self. Just as in the previous article, this article also backs up E. Tory Higgin's 'Self Discrepency Theory', showing through a series of interviews that the stronger the divide between a person's 'real self' and their 'idealised self', the lower their self-esteem and the lower their mood. 
+
+It's interesting to me that a lot of young people seem to have a focus on their 'ideal self'. The 'That Girl' trend links to this - you don't want to be you, you want to be 'that girl'. You want people to refer to you as 'that girl', you want social approval. The message of clean eating, getting up at 5am and doing pilates isn't anything to do with your personal growth or health, it's all posturing for others and therefore very toxic. 
+
+This article also gave me a hypothesis of my own - people who are comfortable posting themselves online often already have a high self esteem, and this is often due to being judged as having a higher level of phsyical attractiveness by others - in short, the majority of people who post themselves online, and especially those who go on to gain a huge following, are good looking to begin with. This creates an echo chamber where the only people that young people are seeing online are attractive or physically 'perfect', and they therefore begin to think that this is the norm. It also creates FOMO - a young person might have a lot to say, content ideas, or something to share, but be nervous to do so because they don't fit the standard that they feel is required. I feel like it's important for me to really push the message that your voice deserves to be heard in my project. 
+
+This was backed up by the article “Inauthentic Online Self” paper to justify why Detox needs to celebrate the natural, imperfect self as more “real.”
+
+Gather academic sources on body image, digital toxicity, media theory.
+
+In my Figjam file, I pulled a lot of quotes or statistics from these articles that could be used for visual or campaign messaging (posters or for the zine). Here are some of the key quotes I pulled:  
+
+Next, I took a deeper look at some of the design movements that I identified as relevant to my project last week: Fluxus, Punk, Dada, post-digital design.
+
+Looking back at the concept of 'medium as message', I feel like mixed media is the right medium for this project, as it directly links to themes of anti-perfection, authenticity and the importance of being human. The most common contextual ideology that I wanted to research is the one that pushed me to want to investigate this project - the current rise of “anti-AI aesthetics” or the handmade revival. Recently, I've seen a lot of graphic designers, artists and illustrators who I look up to embracing the use of mixed media, both as an aesthetic choice, and as a way of pushing back again the insurgence of homogenous, slick digital design that can be so easily replicated by AI.
+
+Sara Sun: 
+
+https://www.tiktok.com/@sara.and.misc/video/7527442947785215239
+
+Perfectly Imperfect Newsletter 
+
+https://www.pi.fyi/welcome
+https://www.tiktok.com/@thezlink/video/7303506301420588320
+
+https://www.jasminedowling.com/
+https://www.nickgentry.com/ - reminds me of Nam June Paik
+https://www.itsnicethat.com/articles/pavel-ripley-art-graphic-design-discover-220425 - process over outcome
+https://www.itsnicethat.com/articles/juri-okita-wabi-project-graphic-design-food-drink-040523
+https://www.instagram.com/allan.bealy/?hl=en
+https://dtan.studio/
+https://www.itsnicethat.com/articles/dtan-studio-graphic-design-discover-230725
+https://blog.adobe.com/en/publish/2024/01/30/how-to-be-an-analog-designer-in-a-digital-world?utm_source=chatgpt.com
+https://www.itsnicethat.com/articles/andrzej-g-graphic-design-discover-010725
+https://www.itsnicethat.com/articles/kartik-tuli-graphic-design-discover-010524
+https://www.itsnicethat.com/articles/anna-gibson-discover-graphic-design-100823
+https://www.itsnicethat.com/articles/pfa-typefaces-graphic-design-250522
+
+These creators physically resist digital perfection through craft (risograph, collage, hand-lettering, old tech) — exactly what your project is about.
+
+They blend analogue materials with contemporary identity, showing that craft isn’t nostalgia: it’s a critique and a choice.
+
+Their work is highly visible on social media, so you can draw both inspiration and insight into how people engage with authenticity — which can inform your campaign direction, your tone, and your process.
+
+the dove campaign 
+
+### Visual Research (Primary + Secondary Visual Analysis)
+
+Purpose: Build reference points that support your visual direction.
+
+Analyse analogue-heavy designers (Corita Kent, Carson, Reid, Paula Scher early works).
+
+Look at contemporary anti-digital artists (Signe Pierce, Ashley Armitage, Johanna Hedva’s tech critique).
+
+Look at craft-based practices (risograph studios, zine culture, “ugly design” trends, anti-UX aesthetic).
+
+This becomes the backbone of your mood board.
+
+### Primary Qualitative Research
+
+## Primary Research
+
+Make a simple survey (Google Forms).
+
+
+Ask 8–10 targeted questions.
+
+
+Share to friends/peers.
+
+
+Optional: one short interview.
+
+
+Screenshot filter-heavy ads for visual research.
+
+Purpose: Understand your audience emotionally and directly.
+
+Create a short survey asking women/creatives:
+how filters affect self-image
+how they feel about AI replacing creatives
+whether analogue visuals feel more “honest” or “human” to them
+
+
+Conduct 2–3 short interviews (friends, peers, creatives).
+
+
+Collect real quotes to use in your zine or campaign.
+
+
+Tutors love when these insights feed into your messaging and visuals.
+
+### Observational Research
+Purpose: Study visual culture as it appears in the wild.
+
+How to apply:
+Screenshot TikTok/Instagram filters, AI beauty ads, overly polished branding.
+
+
+Observe patterns:
+
+
+repetition of face shapes
+
+
+algorithmic sameness in influencer feeds
+
+
+smoothing, perfection, idealisation
+
+
+These can be integrated into your collage or digital zine.
+
+the dove campaign
+
+
+### Quantitative Research
+Purpose: Give statistical weight to your argument.
+
+Find existing data:
+
+% of young women affected by filters
+
+stats on digital burnout
+
+stats on the rise of AI-generated content
+
+stats on authenticity trends (e.g., de-influencing)
+
+How to apply:
+Use survey data: What % feel pressured by AI beauty aesthetics?
+
+
+This becomes fuel for posters or campaign messages.
+
+
+### Material-led / Practice-led Research (Play as Methodology)
+
+## Practise led Experiments
+
+Spend 1–2 hours playing.
+ Try:
+scanning ripped paper
+
+
+photocopy degradation
+
+
+layering collage
+
+
+inky hand lettering
+
+
+analogue textures
+
+
+printing and rescanning images
+
+
+camera roll screenshots of overpolished content
+
+
+These experiments don’t need to “be good” — they are research.
+
+
+This is the methodology you used in GDE711, and it is perfect for Detox.
+
+Bringing “Play” Back Into Research
+
+You absolutely should bring your GDE711 work into this project.
+Ask yourself:
+What does analogue play reveal emotionally?
+
+
+How does physical mess reflect digital overstimulation?
+
+
+Are accidents more honest than AI precision?
+
+
+You can even create a mini-series of Play Experiments:
+messy collage
+
+
+scanner dragging
+
+
+smudged hand-lettered phrases
+
+
+overprinted risograph layers
+
+
+photocopy distortion
+
+
+analogue shapes layered over hyper-smooth AI images
+
+
+Then photograph, scan, and annotate these with short reflective notes.
+Purpose: Let making become research.
+
+
+Try photocopy distortion, scanning textures, layering messy collage.
+
+Record what each method feels like emotionally.
+
+Let accidents, messes and errors become data.
+
+
+Play with:
+
+ripped paper
+
+hand lettering
+
+smudges, paint, ink
+
+scanner glitches
+
+risograph overprinting
+
+stop-motion texture studies
+
+
+Your visual experiments are research — this is academically valid.
+
+
+### Autoethnographic / Reflective Research
+Purpose: Use your own experiences as valid design data.
+
+How to apply:
+Reflect on your own relationship with filters, perfectionism, burnout, AI.
+
+
+Document your feelings during making:
+
+“When I smudged the ink, it echoed the loss of control caused by curated social media identities.”
+
+This directly supports the “authenticity” ethos of the project.
+
+
+### Critical Design Research
+Purpose: Treat design as a tool for critique or protest.
+
+How to apply:
+Ask: how can a visual act (a glitch, a rip, a smudge) communicate resistance?
+
+
+How can imperfection protest AI’s smoothness?
+
+
+This shapes the tone of the whole campaign: rebellious, reflective, honest.
 
 
 ## Research Task
 
-Your research task this week is to assess the field of communication within which you want to develop your self initiated project.
-​
-design and mental health 
-packaging design
-brand design
-web design possibly and social media marketing 
-looking at some of the examples last year
-people who use social media to spin narratives and create engaging experiences 
-​
-Who are the designers, artists and makers that are critical to this area of design? How might their work inform your own creative direction?
+Your research task this week is to develop a mood board to help clarify the themes that you will be exploring in your self-initiated project
 
-https://www.itsnicethat.com/articles/icbq-issue-five-publication-190121 
-https://www.itsnicethat.com/articles/amy-moss-illustration-270421 
+Before starting the moodboard, gathered some references: 
+
+1. Movements
+Fluxus (mess, play, instructions, participation)
 
 
+Dada (anti-perfection, collage, subversion)
 
-![Sketchbook page](/images/week-01/sketch-1.jpg)
+
+Punk Graphics (Jamie Reid)
+
+
+New Wave / Postmodern Typographic Messiness (April Greiman)
+
+
+Post-Digital Design (digital imperfections, glitches)
+
+
+Zine culture (DIY authenticity)
+
+
+Risograph / Printmaking (inherent imperfections)
+
+
+
+2. Designers/Artists
+Corita Kent — playful, analogue, spiritual imperfection
+
+
+David Carson — anti-grid, emotional typography
+
+
+Paula Scher (early work) — expressive type
+
+
+Elle Luna — hand-painted textures
+
+
+Man Ray photograms
+
+
+Barbarian Group / post-digital glitch artists
+
+
+Signe Pierce (critique of beauty & Instagram hyperreality)
+
+
+Jenny Holzer (text-as-protest)
+
+
+Martine Syms (identity & digital culture)
+
+
+3. Contemporary Cultural References
+
+“De-influencing” trend
+
+
+#nofilter movement
+
+
+Anti-AI/anti-homogenisation discourse
+
+
+Gen Z authenticity aesthetic
+
+
+Anti-aesthetic TikToks (chaotic low-effort formats becoming trendy)
+
+
+Pinterest: “messy collage”, “analogue textures”, “tactile typography”
+
+
+## Developing the Mood Board
+
+Organise:
+visual references
+
+
+emotional colour palette
+
+
+textures & analogue marks
+
+
+quotes from surveys
+
+
+cultural references
+
+
+design precedents
+
+
+your experiments
+
+
+screenshots from digital culture
+
+
+Place them together on A3 (or Miro/Figma) and let themes emerge.
+
+Label each section:
+
+“Imperfection as resistance”
+
+
+“Body image & distortion”
+
+
+“Analogue craft”
+
+
+“AI hyper-smoothness”
+
+
+“Emotional honesty”
+
+
+This becomes the conceptual spine of Detox.
+
 
 ## Next Steps
 - Plan for Week 02…
 
 ## References
 
-https://ukgamesfund.com/funded-project/sovereign/
-https://www.itsnicethat.com/features/the-guardian-election-editorial-graphic-design-illustration-spotlight-140624?.com  
+
